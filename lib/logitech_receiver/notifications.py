@@ -323,7 +323,7 @@ def _process_feature_notification(device: Device, notification: HIDPPNotificatio
             if logger.isEnabledFor(logging.DEBUG):
                 logger.debug("wireless status: %s", notification)
             reason = "powered on" if notification.data[2] == 1 else None
-            if notification.data[1] == 1:  # device is asking for software reconfiguration
+            if notification.data[1] == 1 or notification.data[2] == 1:  # requesting reconfiguration or powered on from sleep
                 alert = Alert.NONE
                 device.changed(active=True, alert=alert, reason=reason)
                 # changed(active=True) already runs apply_settings_if_needed on

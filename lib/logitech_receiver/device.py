@@ -605,7 +605,6 @@ class Device:
                     was_active is None
                     or not was_active
                     or push
-                    and (not self.features or SupportedFeature.WIRELESS_DEVICE_STATUS not in self.features)
                 ):
                     if logger.isEnabledFor(logging.INFO):
                         logger.info("%s pushing device settings %s", self, self.settings)

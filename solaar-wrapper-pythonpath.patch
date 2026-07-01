@@ -1,0 +1,9 @@
+--- a/usr/bin/solaar
++++ b/usr/bin/solaar
+@@ -3,6 +3,7 @@
+ import re
+ import sys
++sys.path.insert(0, '/usr/share/solaar/lib')
+ 
+ # for compatibility with easy_install; see #2198
+ __requires__ = 'solaar==1.1.20'

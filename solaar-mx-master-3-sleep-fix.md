@@ -87,6 +87,24 @@ sudo sed -i '/and (not self\.features or SupportedFeature\.WIRELESS_DEVICE_STATU
   /usr/share/solaar/lib/logitech_receiver/device.py
 ```
 
+## Startup Wrapper Fix
+
+The Ubuntu/PPA package installs Solaar's Python modules and metadata under
+`/usr/share/solaar/lib`, but the generated `/usr/bin/solaar` console-script wrapper
+does not add that directory to `sys.path`. If Python cannot see the package metadata,
+startup fails before Solaar code runs:
+
+```text
+importlib.metadata.PackageNotFoundError: No package metadata was found for solaar
+```
+
+The local wrapper patch is tracked in this repo as `solaar-wrapper-pythonpath.patch`.
+It adds this line near the top of `/usr/bin/solaar`, immediately after `import sys`:
+
+```python
+sys.path.insert(0, '/usr/share/solaar/lib')
+```
+
 ## Applying After a Solaar Package Upgrade
 
 Ubuntu package upgrades will overwrite these files. Re-apply with:
@@ -97,6 +115,8 @@ sudo sed -i 's/if notification\.data\[1\] == 1:  # device is asking for software
 
 sudo sed -i '/and (not self\.features or SupportedFeature\.WIRELESS_DEVICE_STATUS not in self\.features)/d' \
   /usr/share/solaar/lib/logitech_receiver/device.py
+
+sudo patch /usr/bin/solaar -i ./solaar-wrapper-pythonpath.patch
 
 pkill -f '/usr/bin/solaar'; solaar &
 ```

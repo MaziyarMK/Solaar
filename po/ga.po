@@ -1,670 +1,677 @@
-# French translations for solaar package.
-# Copyright (C) 2013 THE solaar'S COPYRIGHT HOLDER
+# Irish translations for solaar package.
+# Copyright (C) 2026 THE solaar'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the solaar package.
-# Automatically generated, 2013.
+# Automatically generated, 2026.
 #
+# Aindriú Mac Giolla Eoin <aindriu80@yahoo.com>, 2026.
 msgid ""
 msgstr ""
-"Project-Id-Version: solaar 1.1.20\n"
+"Project-Id-Version: solaar 1.1.20rc2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-17 17:17+0200\n"
-"PO-Revision-Date: 2026-06-17 21:06+0200\n"
-"Last-Translator: David Geiger <david.david@mageialinux-online.org>\n"
-"Language-Team: Language: fr\n"
-"Language: fr\n"
+"POT-Creation-Date: 2026-06-11 16:38+0100\n"
+"PO-Revision-Date: 2026-06-11 17:04+0000\n"
+"Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@yahoo.com>\n"
+"Language-Team: Irish <http://weblate.amgelocalnet.duckdns.org/projects/"
+"solaar/solaar/ga/>\n"
+"Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.8\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #: lib/logitech_receiver/base_usb.py:52
 msgid "Bolt Receiver"
-msgstr "Récepteur Bolt"
+msgstr "Glacadóir Bolt"
 
 #: lib/logitech_receiver/base_usb.py:64
 msgid "Unifying Receiver"
-msgstr "Récepteur Unifying"
+msgstr "Glacadóir Aontaitheach"
 
 #: lib/logitech_receiver/base_usb.py:75 lib/logitech_receiver/base_usb.py:87
 #: lib/logitech_receiver/base_usb.py:100 lib/logitech_receiver/base_usb.py:113
 msgid "Nano Receiver"
-msgstr "Récepteur Nano"
+msgstr "Glacadóir Nano"
 
 #: lib/logitech_receiver/base_usb.py:125
 msgid "Lightspeed Receiver"
-msgstr "Récepteur Lightspeed"
+msgstr "Glacadóir Lightspeed"
 
 #: lib/logitech_receiver/base_usb.py:136
 msgid "EX100 Receiver 27 Mhz"
-msgstr "Récepteur EX100 27 Mhz"
+msgstr "Glacadóir EX100 27 Mhz"
 
 #: lib/logitech_receiver/common.py:698
 #, python-format
 msgid "Battery: %(level)s (%(status)s)"
-msgstr "Batterie : %(level)s (%(status)s)"
+msgstr "Ceallraí: %(level)s (%(status)s)"
 
 #: lib/logitech_receiver/common.py:701
 #, python-format
 msgid "Battery: %(percent)d%% (%(status)s)"
-msgstr "Batterie : %(percent)d%% (%(status)s)"
+msgstr "Ceallraí: %(percent)d%% (%(status)s)"
 
 #: lib/logitech_receiver/hidpp20.py:1189 lib/logitech_receiver/hidpp20.py:1222
 #: lib/logitech_receiver/hidpp20.py:1250
 msgid "Cycle"
-msgstr "Cycle"
+msgstr "Timthriall"
 
 #: lib/logitech_receiver/hidpp20.py:1190
 msgid "Right"
-msgstr "Droit"
+msgstr "Ar dheis"
 
 #: lib/logitech_receiver/hidpp20.py:1191
 msgid "Down"
-msgstr "En bas"
+msgstr "Síos"
 
 #: lib/logitech_receiver/hidpp20.py:1192
 msgid "Center Out"
-msgstr "Centrer dehors"
+msgstr "Lár Amach"
 
 #: lib/logitech_receiver/hidpp20.py:1193
 msgid "In"
-msgstr "Dedans"
+msgstr "Isteach"
 
 #: lib/logitech_receiver/hidpp20.py:1194
 msgid "Out"
-msgstr "Dehors"
+msgstr "Amach"
 
 #: lib/logitech_receiver/hidpp20.py:1195
 #: lib/logitech_receiver/settings_templates.py:1398
 msgid "Left"
-msgstr "Gauche"
+msgstr "Ar chlé"
 
 #: lib/logitech_receiver/hidpp20.py:1196
 msgid "Up"
-msgstr "En haut"
+msgstr "Suas"
 
 #: lib/logitech_receiver/hidpp20.py:1197
 msgid "Center In"
-msgstr "Centrer dedans"
+msgstr "Lár Isteach"
 
 #: lib/logitech_receiver/hidpp20.py:1218
 #: lib/logitech_receiver/settings_templates.py:344
 msgid "Disabled"
-msgstr "Désactivé"
+msgstr "Míchumasaithe"
 
 #: lib/logitech_receiver/hidpp20.py:1219
 msgid "Static"
-msgstr "Statique"
+msgstr "Statach"
 
 #: lib/logitech_receiver/hidpp20.py:1220
 msgid "Pulse"
-msgstr "Pulsation"
+msgstr "Bíog"
 
 #: lib/logitech_receiver/hidpp20.py:1229 lib/logitech_receiver/hidpp20.py:1255
 msgid "Wave"
-msgstr ""
+msgstr "Tonn"
 
 #: lib/logitech_receiver/hidpp20.py:1233
 msgid "Boot"
-msgstr "Boot"
+msgstr "Buatais"
 
 #: lib/logitech_receiver/hidpp20.py:1234
 msgid "Demo"
-msgstr "Démo"
+msgstr "Taispeántas"
 
 #: lib/logitech_receiver/hidpp20.py:1236
 msgid "Breathe"
-msgstr ""
+msgstr "Análaigh"
 
 #: lib/logitech_receiver/hidpp20.py:1241 lib/logitech_receiver/hidpp20.py:1262
 msgid "Ripple"
-msgstr ""
+msgstr "Tonnóg"
 
 #: lib/logitech_receiver/hidpp20.py:1246
 msgid "Decomposition"
-msgstr "Décomposition"
+msgstr "Dianscaoileadh"
 
 #: lib/logitech_receiver/hidpp20.py:1247
 msgid "Signature1"
-msgstr "Signature 1"
+msgstr "Síniú1"
 
 #: lib/logitech_receiver/hidpp20.py:1248
 msgid "Signature2"
-msgstr "Signature 2"
+msgstr "Síniú2"
 
 #: lib/logitech_receiver/hidpp20.py:1268
 msgid "Dim"
-msgstr "Sombre"
+msgstr "Lag"
 
 #: lib/logitech_receiver/hidpp20.py:1340
 msgid "Unknown Location"
-msgstr "Emplacement inconnu"
+msgstr "Suíomh Anaithnid"
 
 #: lib/logitech_receiver/hidpp20.py:1341
 #: lib/logitech_receiver/settings_templates.py:2619
 #: lib/logitech_receiver/settings_templates.py:2907
 #: lib/logitech_receiver/settings_templates.py:3647
 msgid "Primary"
-msgstr "Primaire"
+msgstr "Príomhúil"
 
 #: lib/logitech_receiver/hidpp20.py:1342
 msgid "Logo"
-msgstr "Logo"
+msgstr "Lógó"
 
 #: lib/logitech_receiver/hidpp20.py:1343
 msgid "Left Side"
-msgstr "Côté gauche"
+msgstr "Taobh Clé"
 
 #: lib/logitech_receiver/hidpp20.py:1344
 msgid "Right Side"
-msgstr "Côté droit"
+msgstr "Taobh Deas"
 
 #: lib/logitech_receiver/hidpp20.py:1345
 msgid "Combined"
-msgstr "Combiné"
+msgstr "Comhcheangailte"
 
 #: lib/logitech_receiver/hidpp20.py:1346
 msgid "Primary 1"
-msgstr "Primaire 1"
+msgstr "Bunscoil 1"
 
 #: lib/logitech_receiver/hidpp20.py:1347
 msgid "Primary 2"
-msgstr "Primaire 2"
+msgstr "Bunscoil 2"
 
 #: lib/logitech_receiver/hidpp20.py:1348
 msgid "Primary 3"
-msgstr "Primaire 3"
+msgstr "Bunscoil 3"
 
 #: lib/logitech_receiver/hidpp20.py:1349
 msgid "Primary 4"
-msgstr "Primaire 4"
+msgstr "Bunscoil 4"
 
 #: lib/logitech_receiver/hidpp20.py:1350
 msgid "Primary 5"
-msgstr "Primaire 5"
+msgstr "Bunscoil 5"
 
 #: lib/logitech_receiver/hidpp20.py:1351
 msgid "Primary 6"
-msgstr "Primaire 6"
+msgstr "Bunscoil 6"
 
 #: lib/logitech_receiver/i18n.py:28
 msgid "empty"
-msgstr "vide"
+msgstr "folamh"
 
 #: lib/logitech_receiver/i18n.py:29
 msgid "critical"
-msgstr "critique"
+msgstr "criticiúil"
 
 #: lib/logitech_receiver/i18n.py:30
 msgid "low"
-msgstr "faible"
+msgstr "íseal"
 
 #: lib/logitech_receiver/i18n.py:31
 msgid "average"
-msgstr "moyenne"
+msgstr "meán"
 
 #: lib/logitech_receiver/i18n.py:32
 msgid "good"
-msgstr "bonne"
+msgstr "maith"
 
 #: lib/logitech_receiver/i18n.py:33
 msgid "full"
-msgstr "pleine"
+msgstr "lán"
 
 #: lib/logitech_receiver/i18n.py:35
 msgid "discharging"
-msgstr "En décharge"
+msgstr "ag scaoileadh"
 
 #: lib/logitech_receiver/i18n.py:36
 msgid "recharging"
-msgstr "En charge"
+msgstr "athluchtú"
 
-#: lib/logitech_receiver/i18n.py:37 lib/solaar/ui/window.py:706
+#: lib/logitech_receiver/i18n.py:37
 msgid "charging"
-msgstr "en charge"
+msgstr "muirearú"
 
 #: lib/logitech_receiver/i18n.py:38
 msgid "not charging"
-msgstr "pas en charge"
+msgstr "gan muirearú"
 
 #: lib/logitech_receiver/i18n.py:39
 msgid "almost full"
-msgstr "presque pleine"
+msgstr "beagnach lán"
 
 #: lib/logitech_receiver/i18n.py:40
 msgid "charged"
-msgstr "chargée"
+msgstr "cúisithe"
 
 #: lib/logitech_receiver/i18n.py:41
 msgid "slow recharge"
-msgstr "recharge lente"
+msgstr "athluchtú mall"
 
 #: lib/logitech_receiver/i18n.py:42
 msgid "invalid battery"
-msgstr "batterie invalide"
+msgstr "ceallraí neamhbhailí"
 
 #: lib/logitech_receiver/i18n.py:43
 msgid "thermal error"
-msgstr "erreur thermique"
+msgstr "earráid theirmeach"
 
 #: lib/logitech_receiver/i18n.py:44
 msgid "error"
-msgstr "erreur"
+msgstr "earráid"
 
 #: lib/logitech_receiver/i18n.py:45
 msgid "standard"
-msgstr "standard"
+msgstr "caighdeánach"
 
 #: lib/logitech_receiver/i18n.py:46
 msgid "fast"
-msgstr "rapide"
+msgstr "tapa"
 
 #: lib/logitech_receiver/i18n.py:47
 msgid "slow"
-msgstr "lente"
+msgstr "mall"
 
 #: lib/logitech_receiver/i18n.py:49
 msgid "device timeout"
-msgstr "le périphérique ne répond pas"
+msgstr "am scoir gléas"
 
 #: lib/logitech_receiver/i18n.py:50
 msgid "device not supported"
-msgstr "périphérique non pris en charge"
+msgstr "ní thacaítear leis an ngléas"
 
 #: lib/logitech_receiver/i18n.py:51
 msgid "too many devices"
-msgstr "trop de périphériques"
+msgstr "an iomarca gléasanna"
 
 #: lib/logitech_receiver/i18n.py:52
 msgid "sequence timeout"
-msgstr "délai dépassé"
+msgstr "am scoir seicheamh"
 
-#: lib/logitech_receiver/i18n.py:54 lib/solaar/ui/window.py:561
+#: lib/logitech_receiver/i18n.py:54
 msgid "Firmware"
-msgstr "Micrologiciel"
+msgstr "Dochtearraí"
 
 #: lib/logitech_receiver/i18n.py:55
 msgid "Bootloader"
-msgstr "Chargeur d'amorçage"
+msgstr "Tosaitheoir"
 
 #: lib/logitech_receiver/i18n.py:56
 msgid "Hardware"
-msgstr "Matériel"
+msgstr "Crua-earraí"
 
 #: lib/logitech_receiver/i18n.py:57
 msgid "Other"
-msgstr "Autre"
+msgstr "Eile"
 
 #: lib/logitech_receiver/i18n.py:59
 #: lib/logitech_receiver/settings_templates.py:4336
 msgid "Left Button"
-msgstr "Bouton gauche"
+msgstr "Cnaipe Clé"
 
 #: lib/logitech_receiver/i18n.py:60
 #: lib/logitech_receiver/settings_templates.py:4336
 msgid "Right Button"
-msgstr "Bouton droit"
+msgstr "Cnaipe Deas"
 
 #: lib/logitech_receiver/i18n.py:61
 msgid "Middle Button"
-msgstr "Bouton central"
+msgstr "Cnaipe Lárnach"
 
 #: lib/logitech_receiver/i18n.py:62
 msgid "Back Button"
-msgstr "Bouton retour"
+msgstr "Cnaipe Ar Ais"
 
 #: lib/logitech_receiver/i18n.py:63
 msgid "Forward Button"
-msgstr "Bouton avant"
+msgstr "Cnaipe Ar Aghaidh"
 
 #: lib/logitech_receiver/i18n.py:64
 msgid "Mouse Gesture Button"
-msgstr "Bouton gestuel de la souris"
+msgstr "Cnaipe Gotha Luiche"
 
 #: lib/logitech_receiver/i18n.py:65
 msgid "Smart Shift"
-msgstr "Changement intelligent"
+msgstr "Aistriú Cliste"
 
 #: lib/logitech_receiver/i18n.py:66
 msgid "DPI Switch"
-msgstr "Commutateur DPI"
+msgstr "Lasc DPI"
 
 #: lib/logitech_receiver/i18n.py:67
 msgid "Left Tilt"
-msgstr "Inclinaison à gauche"
+msgstr "Claonadh ar Chlé"
 
 #: lib/logitech_receiver/i18n.py:68
 msgid "Right Tilt"
-msgstr "Inclinaison à droite"
+msgstr "Claonadh ar Dheis"
 
 #: lib/logitech_receiver/i18n.py:69
 msgid "Left Click"
-msgstr "Clic gauche"
+msgstr "Cliceáil ar Chlé"
 
 #: lib/logitech_receiver/i18n.py:70
 msgid "Right Click"
-msgstr "Clic droit"
+msgstr "Cliceáil ar Dheis"
 
 #: lib/logitech_receiver/i18n.py:71
 msgid "Mouse Middle Button"
-msgstr "Bouton central de la souris"
+msgstr "Cnaipe Lárnach na Luiche"
 
 #: lib/logitech_receiver/i18n.py:72
 msgid "Mouse Back Button"
-msgstr "Bouton de retour de la souris"
+msgstr "Cnaipe Ar Ais Luiche"
 
 #: lib/logitech_receiver/i18n.py:73
 msgid "Mouse Forward Button"
-msgstr "Bouton avant de la souris"
+msgstr "Cnaipe Ar Aghaidh Luiche"
 
 #: lib/logitech_receiver/i18n.py:74
 msgid "Gesture Button Navigation"
-msgstr "Navigation par bouton de gestuelle"
+msgstr "Nascleanúint Cnaipe Gotha"
 
 #: lib/logitech_receiver/i18n.py:75
 msgid "Mouse Scroll Left Button"
-msgstr "Bouton de défilement vers la gauche de la souris"
+msgstr "Cnaipe Scrollaigh Clé Luiche"
 
 #: lib/logitech_receiver/i18n.py:76
 msgid "Mouse Scroll Right Button"
-msgstr "Bouton de défilement vers la droite de la souris"
+msgstr "Cnaipe Scrollaigh ar Dheis na Luiche"
 
 #: lib/logitech_receiver/i18n.py:78
 msgid "pressed"
-msgstr "pressé"
+msgstr "brúite"
 
 #: lib/logitech_receiver/i18n.py:79
 msgid "released"
-msgstr "relâché"
+msgstr "scaoilte"
 
 #: lib/logitech_receiver/notifications.py:157 lib/solaar/listener.py:350
 msgid "connected"
-msgstr "connecté"
+msgstr "ceangailte"
 
 #: lib/logitech_receiver/notifications.py:157 lib/solaar/listener.py:350
 msgid "disconnected"
-msgstr "déconnecté"
+msgstr "dícheangailte"
 
 #: lib/logitech_receiver/notifications.py:183
 msgid "unpaired"
-msgstr "non jumelé"
+msgstr "neamhphéireáilte"
 
 #: lib/logitech_receiver/notifications.py:232
 msgid "powered on"
-msgstr "sous tension"
+msgstr "cumhachtaithe air"
 
 #: lib/logitech_receiver/notifications.py:284
 msgid "ADC measurement notification"
-msgstr "Notification de mesure ADC"
+msgstr "Fógra tomhais ADC"
 
 #: lib/logitech_receiver/notifications.py:486
 #: lib/logitech_receiver/notifications.py:542
 msgid "pairing lock is closed"
-msgstr "le verrou de jumelage est fermé"
+msgstr "Tá an glas péireála dúnta"
 
 #: lib/logitech_receiver/notifications.py:486
 #: lib/logitech_receiver/notifications.py:542
 msgid "pairing lock is open"
-msgstr "le verrou de jumelage est ouvert"
+msgstr "Tá an glas péireála oscailte"
 
 #: lib/logitech_receiver/notifications.py:505
 msgid "discovery lock is closed"
-msgstr "le verrou de détection est fermé"
+msgstr "Tá an glas fionnachtana dúnta"
 
 #: lib/logitech_receiver/notifications.py:505
 msgid "discovery lock is open"
-msgstr "le verrou de détection est ouvert"
+msgstr "Tá an glas fionnachtana oscailte"
 
 #: lib/logitech_receiver/receiver.py:466
 msgid "No paired devices."
-msgstr "Aucun périphérique jumelé."
+msgstr "Gan aon ghléasanna péireáilte."
 
 #: lib/logitech_receiver/receiver.py:468 lib/solaar/ui/window.py:612
 #, python-format
 msgid "%(count)s paired device."
 msgid_plural "%(count)s paired devices."
-msgstr[0] "%(count)s périphérique jumelé."
-msgstr[1] "%(count)s périphériques jumelés."
+msgstr[0] "%(count)s gléas péireáilte."
+msgstr[1] "%(count)s gléasanna péireáilte."
+msgstr[2] "%(count)s gléasanna péireáilte."
 
 #: lib/logitech_receiver/settings.py:621
 msgid "register"
-msgstr "registre"
+msgstr "cláraigh"
 
 #: lib/logitech_receiver/settings.py:635 lib/logitech_receiver/settings.py:673
 msgid "feature"
-msgstr "fonctionnalité"
+msgstr "gné"
 
 #: lib/logitech_receiver/settings_templates.py:183
 msgid "Swap Fx function"
-msgstr "Fonction Swap Fx"
+msgstr "Feidhm Malartaithe Fx"
 
 #: lib/logitech_receiver/settings_templates.py:186
 msgid ""
 "When set, the F1..F12 keys will activate their special function,\n"
 "and you must hold the FN key to activate their standard function."
 msgstr ""
-"Lorsque défini, les touches F1..F12 activeront leurs fonctions spéciales,\n"
-"et vous devez maintenir la touche FN pour activer leurs fonctions standards."
+"Nuair a bheidh siad socraithe, cuirfidh na heochracha F1..F12 a bhfeidhm "
+"speisialta i ngníomh,\n"
+"agus ní mór duit an eochair FN a shealbhú síos chun a bhfeidhm chaighdeánach "
+"a ghníomhachtú."
 
 #: lib/logitech_receiver/settings_templates.py:191
 msgid ""
 "When unset, the F1..F12 keys will activate their standard function,\n"
 "and you must hold the FN key to activate their special function."
 msgstr ""
-"Lorsque non défini, les touches F1..F12 activeront leurs fonctions "
-"standards,\n"
-"et vous devez maintenir la touche FN pour activer leurs fonctions spéciales."
+"Nuair nach mbíonn siad socraithe, cuirfidh na heochracha F1..F12 a bhfeidhm "
+"chaighdeánach i ngníomh,\n"
+"agus ní mór duit an eochair FN a shealbhú síos chun a bhfeidhm speisialta a "
+"ghníomhachtú."
 
 #: lib/logitech_receiver/settings_templates.py:199
 msgid "Hand Detection"
-msgstr "Détection manuelle"
+msgstr "Brath Láimhe"
 
 #: lib/logitech_receiver/settings_templates.py:200
 msgid "Turn on illumination when the hands hover over the keyboard."
-msgstr "Allume l'éclairage lorsque les mains passent au-dessus du clavier."
+msgstr ""
+"Cuir an soilsiú ar siúl nuair a bhíonn na lámha ag luascadh os cionn an "
+"mhéarchláir."
 
 #: lib/logitech_receiver/settings_templates.py:207
 msgid "Scroll Wheel Smooth Scrolling"
-msgstr "Défilement fluide à la molette"
+msgstr "Roth Scrollaigh Scrollú Réidh"
 
 #: lib/logitech_receiver/settings_templates.py:208
 #: lib/logitech_receiver/settings_templates.py:455
 #: lib/logitech_receiver/settings_templates.py:484
 msgid "High-sensitivity mode for vertical scroll with the wheel."
-msgstr "Mode haute sensibilité pour défilement vertical avec la roulette."
+msgstr "Mód ard-íogaireachta le haghaidh scrolla ingearach leis an roth."
 
 #: lib/logitech_receiver/settings_templates.py:215
 msgid "Side Scrolling"
-msgstr "Défilement latéral"
+msgstr "Scrolláil Taobh"
 
 #: lib/logitech_receiver/settings_templates.py:217
 msgid ""
 "When disabled, pushing the wheel sideways sends custom button events\n"
 "instead of the standard side-scrolling events."
 msgstr ""
-"Lorsque désactivé, l'appui sur les côtés de la roulette envoie des "
-"évènements\n"
-" de bouton personnalisés à la place des évènements standards de défilement "
-"latéral."
+"Nuair a bhíonn sé díchumasaithe, seoltar imeachtaí cnaipe saincheaptha nuair "
+"a bhrúitear an roth\n"
+"ar thaobh seachas na himeachtaí scrollaigh taobh caighdeánacha."
 
 #: lib/logitech_receiver/settings_templates.py:227
 msgid "Sensitivity (DPI - older mice)"
-msgstr "Sensibilité (DPI - souris plus anciennne)"
+msgstr "Íogaireacht (DPI - lucha níos sine)"
 
 #: lib/logitech_receiver/settings_templates.py:228
 #: lib/logitech_receiver/settings_templates.py:1064
 #: lib/logitech_receiver/settings_templates.py:1092
 msgid "Mouse movement sensitivity"
-msgstr "Sensibilité du mouvement de la souris"
+msgstr "Íogaireacht ghluaiseacht luiche"
 
 #: lib/logitech_receiver/settings_templates.py:301
 msgid "Backlight Timed"
-msgstr "Rétroéclairage chronométré"
+msgstr "Soilsiú Cúlra Amaithe"
 
 #: lib/logitech_receiver/settings_templates.py:302
 #: lib/logitech_receiver/settings_templates.py:442
 msgid "Set illumination time for keyboard."
-msgstr "Définir le temps d'éclairage du clavier."
+msgstr "Socraigh am soilsithe don mhéarchlár."
 
 #: lib/logitech_receiver/settings_templates.py:313
 msgid "Backlight"
-msgstr "Rétroéclairage"
+msgstr "Cúlsholas"
 
 #: lib/logitech_receiver/settings_templates.py:314
 msgid ""
 "Illumination level on keyboard.  Changes made are only applied in Manual "
 "mode."
 msgstr ""
-"Niveau d'éclairage du clavier. Les modifications apportées ne sont "
-"appliquées qu'en mode manuel."
+"Leibhéal soilsithe ar an méarchlár.  Ní chuirtear na hathruithe a dhéantar i "
+"bhfeidhm ach amháin sa mhodh Láimhe."
 
 #: lib/logitech_receiver/settings_templates.py:346
 msgid "Automatic"
-msgstr "Automatique"
+msgstr "Uathoibríoch"
 
 #: lib/logitech_receiver/settings_templates.py:348
 msgid "Manual"
-msgstr "Manuel"
+msgstr "Lámhleabhar"
 
 #: lib/logitech_receiver/settings_templates.py:350
 msgid "Enabled"
-msgstr "Activé"
+msgstr "Cumasaithe"
 
 #: lib/logitech_receiver/settings_templates.py:356
 msgid "Backlight Level"
-msgstr "Niveau de rétroéclairage"
+msgstr "Leibhéal an tSolais Chúlra"
 
 #: lib/logitech_receiver/settings_templates.py:357
 msgid "Illumination level on keyboard when in Manual mode."
-msgstr "Niveau d'éclairage du clavier en mode manuel."
+msgstr "Leibhéal soilsithe ar an méarchlár nuair a bhíonn sé i mód Láimhe."
 
 #: lib/logitech_receiver/settings_templates.py:414
 msgid "Backlight Delay Hands Out"
-msgstr "Délai de rétroéclairage sans les mains"
+msgstr "Moill ar Sholas Cúlra Lámha Amach"
 
 #: lib/logitech_receiver/settings_templates.py:415
 msgid ""
 "Delay in seconds until backlight fades out with hands away from keyboard."
 msgstr ""
-"Délai jusqu'à ce que le rétroéclairage s'éteigne avec les mains éloignées du "
-"clavier."
+"Moill i soicindí go dtí go n-imíonn an cúlsholas agus na lámha ar shiúl ón "
+"méarchlár."
 
 #: lib/logitech_receiver/settings_templates.py:423
 msgid "Backlight Delay Hands In"
-msgstr "Délai de rétroéclairage avec les mains"
+msgstr "Moill ar Sholas Cúlra Lámha Isteach"
 
 #: lib/logitech_receiver/settings_templates.py:424
 msgid "Delay in seconds until backlight fades out with hands near keyboard."
 msgstr ""
-"Délai jusqu'à ce que le rétroéclairage s'éteigne avec les mains près du "
-"clavier."
+"Moill i soicindí go dtí go n-imíonn an cúlra agus na lámha in aice leis an "
+"méarchlár."
 
 #: lib/logitech_receiver/settings_templates.py:432
 msgid "Backlight Delay Powered"
-msgstr "Délai de rétroéclairage alimenté"
+msgstr "Moill ar Shoilse Cúltaca Cumhachtaithe"
 
 #: lib/logitech_receiver/settings_templates.py:433
 msgid "Delay in seconds until backlight fades out with external power."
 msgstr ""
-"Délai jusqu'à ce que le rétroéclairage s'éteigne avec une alimentation "
-"externe."
+"Moill i soicindí go dtí go n-imíonn an cúlsholas le cumhacht sheachtrach."
 
 #: lib/logitech_receiver/settings_templates.py:441
 msgid "Backlight (Seconds)"
-msgstr "Rétroéclairage (Secondes)"
+msgstr "Solas Cúil (Soicindí)"
 
 #: lib/logitech_receiver/settings_templates.py:453
 msgid "Scroll Wheel High Resolution"
-msgstr "Molette haute résolution"
+msgstr "Roth Scrollaigh Ardtaifigh"
 
 #: lib/logitech_receiver/settings_templates.py:457
 #: lib/logitech_receiver/settings_templates.py:486
 msgid "Set to ignore if scrolling is abnormally fast or slow"
-msgstr "Définir pour ignorer si le défilement est anormalement rapide ou lent"
+msgstr ""
+"Socraigh chun neamhaird a dhéanamh má tá an scrollú thar a bheith gasta nó "
+"mall"
 
 #: lib/logitech_receiver/settings_templates.py:464
 #: lib/logitech_receiver/settings_templates.py:495
 msgid "Scroll Wheel Diversion"
-msgstr "Interception de la molette"
+msgstr "Atreorú Roth Scrollaigh"
 
 #: lib/logitech_receiver/settings_templates.py:466
 msgid ""
 "Make scroll wheel send LOWRES_WHEEL HID++ notifications (which trigger "
 "Solaar rules but are otherwise ignored)."
 msgstr ""
-"Active l'envoi par la molette de notifications LOWRES_WHEEL HID++ (ce qui "
-"déclenche les règles Solaar qui sont ignorées sinon)."
+"Cuir fógraí LOWRES_WHEEL HID++ ar an roth scrollála (a spreagann rialacha "
+"Solaar ach a ndéantar neamhaird orthu murach sin)."
 
 #: lib/logitech_receiver/settings_templates.py:473
 msgid "Scroll Wheel Direction"
-msgstr "Direction de la molette"
+msgstr "Treo Roth Scrollaigh"
 
 #: lib/logitech_receiver/settings_templates.py:474
 msgid "Invert direction for vertical scroll with wheel."
-msgstr "Direction inversée pour le défilement vertical avec la molette."
+msgstr "Inbhéartaigh an treo le haghaidh scrolla ingearach le roth."
 
 #: lib/logitech_receiver/settings_templates.py:482
 msgid "Scroll Wheel Resolution"
-msgstr "Résolution de la molette"
+msgstr "Rún Roth Scrollaigh"
 
 #: lib/logitech_receiver/settings_templates.py:497
 msgid ""
 "Make scroll wheel send HIRES_WHEEL HID++ notifications (which trigger Solaar "
 "rules but are otherwise ignored)."
 msgstr ""
-"Active l'envoi par la molette de notifications HIRES_WHEEL HID++ (ce qui "
-"déclenche les règles Solaar qui sont ignorées sinon)."
+"Cuir fógraí HIRES_WHEEL HID++ ar an roth scrollála (a spreagann rialacha "
+"Solaar ach a ndéantar neamhaird orthu murach sin)."
 
 #: lib/logitech_receiver/settings_templates.py:506
 msgid "Sensitivity (Pointer Speed)"
-msgstr "Sensibilité (vitesse du pointeur)"
+msgstr "Íogaireacht (Luas an Phointeora)"
 
 #: lib/logitech_receiver/settings_templates.py:507
 msgid "Speed multiplier for mouse (256 is normal multiplier)."
-msgstr ""
-"Multiplicateur de vitesse pour la souris (256 est le multiplicateur normal)."
+msgstr "Iolraitheoir luais don luch (is gnách go mbíonn 256 ina iolraitheoir)."
 
 #: lib/logitech_receiver/settings_templates.py:517
 msgid "Thumb Wheel Diversion"
-msgstr "Interception de la molette de pouce"
+msgstr "Atreorú Roth Ordóige"
 
 #: lib/logitech_receiver/settings_templates.py:519
 msgid ""
 "Make thumb wheel send THUMB_WHEEL HID++ notifications (which trigger Solaar "
 "rules but are otherwise ignored)."
 msgstr ""
-"Active l'envoi par la molette de pouce de notifications THUMB_WHEEL HID++ "
-"(ce qui déclenche les règles Solaar qui sont ignorées sinon)."
+"Cuir fógraí THUMB_WHEEL HID++ chuig roth an ordóige (a spreagann rialacha "
+"Solaar ach a ndéantar neamhaird orthu murach sin)."
 
 #: lib/logitech_receiver/settings_templates.py:528
 msgid "Thumb Wheel Direction"
-msgstr "Direction de la molette de pouce"
+msgstr "Treo Roth Ordóige"
 
 #: lib/logitech_receiver/settings_templates.py:529
 msgid "Invert thumb wheel scroll direction."
-msgstr "Inverser la direction du défilement de la molette de pouce."
+msgstr "Inbhéartaigh treo scrolla roth an ordóige."
 
 #: lib/logitech_receiver/settings_templates.py:549
 msgid "Onboard Profiles"
-msgstr "Profils embarqués"
+msgstr "Próifílí Ar Bord"
 
 #: lib/logitech_receiver/settings_templates.py:550
 msgid ""
 "Enable an onboard profile, which controls report rate, sensitivity, and "
 "button actions"
 msgstr ""
-"Activer un profil embarqué, qui contrôle le taux de rapport, la sensibilité "
-"et les actions des boutons"
+"Cumasaigh próifíl ar bord, a rialaíonn ráta tuairiscithe, íogaireacht agus "
+"gníomhartha cnaipe"
 
 #: lib/logitech_receiver/settings_templates.py:594
 #: lib/logitech_receiver/settings_templates.py:627
 msgid "Report Rate"
-msgstr "Taux de rapport"
+msgstr "Ráta Tuairiscithe"
 
 #: lib/logitech_receiver/settings_templates.py:596
 #: lib/logitech_receiver/settings_templates.py:629
 msgid "Frequency of device movement reports"
-msgstr "Fréquence des rapports de mouvement des périphériques"
+msgstr "Minicíocht tuairiscí gluaiseachta gléasanna"
 
 #: lib/logitech_receiver/settings_templates.py:596
 #: lib/logitech_receiver/settings_templates.py:629
@@ -674,142 +681,143 @@ msgstr "Fréquence des rapports de mouvement des périphériques"
 #: lib/logitech_receiver/settings_templates.py:1502
 msgid "May need Onboard Profiles set to Disable to be effective."
 msgstr ""
-"Peut nécessiter de désactiver les profils embarqués pour être effectif."
+"B’fhéidir go mbeadh gá le Próifílí Ar Bord a shocrú go Díchumasaigh le go "
+"mbeidh siad éifeachtach."
 
 #: lib/logitech_receiver/settings_templates.py:657
 msgid "Divert crown events"
-msgstr "Définir les évènements de la couronne"
+msgstr "Imeachtaí corónach a atreorú"
 
 #: lib/logitech_receiver/settings_templates.py:658
 msgid ""
 "Make crown send CROWN HID++ notifications (which trigger Solaar rules but "
 "are otherwise ignored)."
 msgstr ""
-"Active l'envoi par la couronne de notifications CROWN HID++ (ce qui "
-"déclenche les règles Solaar qui sont ignorées sinon)."
+"Cuir fógraí CROWN HID++ chuig an gcoróin (a spreagann rialacha Solaar ach a "
+"ndéantar neamhaird orthu murach sin)."
 
 #: lib/logitech_receiver/settings_templates.py:666
 msgid "Crown smooth scroll"
-msgstr "Défilement fluide de la couronne"
+msgstr "Scrolla réidh na Corónach"
 
 #: lib/logitech_receiver/settings_templates.py:667
 msgid "Set crown smooth scroll"
-msgstr "Définir le défilement fluide de la couronne"
+msgstr "Socraigh scrolla réidh an choróin"
 
 #: lib/logitech_receiver/settings_templates.py:675
 msgid "Divert G and M Keys"
-msgstr "Interception des touches G et M"
+msgstr "Eochracha G agus M a atreorú"
 
 #: lib/logitech_receiver/settings_templates.py:676
 msgid ""
 "Make G and M keys send HID++ notifications (which trigger Solaar rules but "
 "are otherwise ignored)."
 msgstr ""
-"Active l'envoi par les touches G et M de notifications HID++ (ce qui "
-"déclenche les règles Solaar qui sont ignorées sinon)."
+"Cuir fógraí HID++ ar na heochracha G agus M (a spreagann rialacha Solaar ach "
+"a ndéantar neamhaird orthu murach sin)."
 
 #: lib/logitech_receiver/settings_templates.py:690
 msgid "Scroll Wheel Ratcheted"
-msgstr "Molette mode cliquet"
+msgstr "Roth Scrollaigh Céimnithe"
 
 #: lib/logitech_receiver/settings_templates.py:691
 msgid ""
 "Switch the mouse wheel between speed-controlled ratcheting and always "
 "freespin."
 msgstr ""
-"Basculez la molette de la souris entre le mode cliquet à vitesse contrôlée "
-"et toujours en roue libre."
+"Athraigh roth na luiche idir raicéadú rialaithe luais agus casadh saor in "
+"aisce i gcónaí."
 
 #: lib/logitech_receiver/settings_templates.py:693
 msgid "Freespinning"
-msgstr "Roue libre"
+msgstr "Sníomh saor in aisce"
 
 #: lib/logitech_receiver/settings_templates.py:693
 msgid "Ratcheted"
-msgstr "Cliquet"
+msgstr "Céimnithe"
 
 #: lib/logitech_receiver/settings_templates.py:700
 msgid "Scroll Wheel Ratchet Speed"
-msgstr "Vitesse de la molette mode cliquet"
+msgstr "Luas Raicéad Roth Scrollaigh"
 
 #: lib/logitech_receiver/settings_templates.py:702
 msgid ""
 "Use the mouse wheel speed to switch between ratcheted and freespinning.\n"
 "The mouse wheel is always ratcheted at 50."
 msgstr ""
-"Utilisez la vitesse de la molette de la souris pour basculer entre le mode "
-"cliquet et le mode roue libre.\n"
-"La molette est toujours en mode cliquet à 50."
+"Bain úsáid as luas roth na luiche chun aistriú idir luas raicéadaithe agus "
+"luas saor-sníomhach.\n"
+"Bíonn luas raicéadaithe 50 ar roth na luiche i gcónaí."
 
 #: lib/logitech_receiver/settings_templates.py:752
 msgid "Scroll Wheel Ratchet Torque"
-msgstr "Couple de la molette mode cliquet"
+msgstr "Chasmhóiminte Raicéad Roth Scrollaigh"
 
 #: lib/logitech_receiver/settings_templates.py:753
 msgid "Change the torque needed to overcome the ratchet."
-msgstr "Modifiez le couple nécessaire pour vaincre le mode cliquet."
+msgstr "Athraigh an chasmhóimint atá riachtanach chun an raicéad a shárú."
 
 #: lib/logitech_receiver/settings_templates.py:788
 msgid "Key/Button Actions"
-msgstr "Actions des boutons"
+msgstr "Gníomhartha Eochracha/Cnaipí"
 
 #: lib/logitech_receiver/settings_templates.py:790
 msgid "Change the action for the key or button."
-msgstr "Modifiez l'action pour la touche ou pour le bouton."
+msgstr "Athraigh an gníomh don eochair nó don chnaipe."
 
 #: lib/logitech_receiver/settings_templates.py:792
 msgid "Overridden by diversion."
-msgstr "Remplacé par interception."
+msgstr "Sáraithe ag atreorú."
 
 #: lib/logitech_receiver/settings_templates.py:794
 msgid ""
 "Changing important actions (such as for the left mouse button) can result in "
 "an unusable system."
 msgstr ""
-"La modification d'importantes actions (comme le bouton gauche de la souris) "
-"pourrait rendre le système inutilisable."
+"Is féidir go mbeadh córas neamhúsáideach mar thoradh ar ghníomhartha "
+"tábhachtacha a athrú (mar shampla an cnaipe luiche ar chlé)."
 
 #: lib/logitech_receiver/settings_templates.py:969
 msgid "Key/Button Diversion"
-msgstr "Interception des boutons/touches"
+msgstr "Atreorú Eochrach/Cnaipe"
 
 #: lib/logitech_receiver/settings_templates.py:970
 msgid ""
 "Make the key or button send HID++ notifications (Diverted) or initiate Mouse "
 "Gestures or Sliding DPI"
 msgstr ""
-"Active l'envoi par la touche ou le bouton de notifications HID++ "
-"(interception), ou une gestuelle de souris ou l'échelle de déplacement"
+"Cuir an eochair nó an cnaipe ag seoladh fógraí HID++ (Atreoraithe) nó cuir "
+"tús le Gothaí Luiche nó DPI Sleamhnáin"
 
 #: lib/logitech_receiver/settings_templates.py:973
 #: lib/logitech_receiver/settings_templates.py:974
 #: lib/logitech_receiver/settings_templates.py:975
 msgid "Diverted"
-msgstr "Interception"
+msgstr "Atreoraithe"
 
 #: lib/logitech_receiver/settings_templates.py:973
 #: lib/logitech_receiver/settings_templates.py:974
 msgid "Mouse Gestures"
-msgstr "Gestuelle à la souris"
+msgstr "Gothaí Luiche"
 
 #: lib/logitech_receiver/settings_templates.py:973
 #: lib/logitech_receiver/settings_templates.py:974
 #: lib/logitech_receiver/settings_templates.py:975
 msgid "Regular"
-msgstr "Normal"
+msgstr "Rialta"
 
 #: lib/logitech_receiver/settings_templates.py:973
 msgid "Sliding DPI"
-msgstr "Amplification du déplacement"
+msgstr "DPI sleamhnáin"
 
 #: lib/logitech_receiver/settings_templates.py:1063
 #: lib/logitech_receiver/settings_templates.py:1091
 msgid "Sensitivity (DPI)"
-msgstr "Sensibilité (DPI)"
+msgstr "Íogaireacht (DPI)"
 
 #: lib/logitech_receiver/settings_templates.py:1173
 msgid "Sensitivity Switching"
-msgstr "Basculement de la sensibilité"
+msgstr "Athrú Íogaireachta"
 
 #: lib/logitech_receiver/settings_templates.py:1175
 msgid ""
@@ -817,352 +825,356 @@ msgid ""
 "or button is pressed.\n"
 "If there is no remembered sensitivity, just remember the current sensitivity"
 msgstr ""
-"Bascule la sensibilité actuelle et la sensibilité enregistrée quand la "
-"touche ou le bouton sont appuyés.\n"
-"S'il n'y aucune sensibilité enregistrée, rappelle uniquement la sensibilité "
-"courante"
+"Athraigh an íogaireacht reatha agus an íogaireacht mheabhraithe nuair a "
+"bhrúitear an eochair nó an cnaipe.\n"
+"Mura bhfuil aon íogaireacht mheabhraithe ann, cuimhnigh ar an íogaireacht "
+"reatha amháin"
 
 #: lib/logitech_receiver/settings_templates.py:1179
 msgid "Off"
-msgstr "Eteint"
+msgstr "As"
 
 #: lib/logitech_receiver/settings_templates.py:1210
 msgid "Disable keys"
-msgstr "Désactiver les touches"
+msgstr "Díchumasaigh eochracha"
 
 #: lib/logitech_receiver/settings_templates.py:1211
 msgid "Disable specific keyboard keys."
-msgstr "Désactiver des touches spécifiques du clavier."
+msgstr "Díchumasaigh eochracha sonracha ar an méarchlár."
 
 #: lib/logitech_receiver/settings_templates.py:1214
 #, python-format
 msgid "Disables the %s key."
-msgstr "Désactive la touche %s."
+msgstr "Díchumasaíonn sé an eochair %s."
 
 #: lib/logitech_receiver/settings_templates.py:1227
 #: lib/logitech_receiver/settings_templates.py:1284
 msgid "Set OS"
-msgstr "Définir le système d'exploitation"
+msgstr "Socraigh OS"
 
 #: lib/logitech_receiver/settings_templates.py:1228
 #: lib/logitech_receiver/settings_templates.py:1285
 msgid "Change keys to match OS."
-msgstr "Modifier les touches pour correspondre au système d'exploitation."
+msgstr "Athraigh eochracha chun go n-oirfidh siad don chóras oibriúcháin."
 
 #: lib/logitech_receiver/settings_templates.py:1297
 msgid "Change Host"
-msgstr "Changer d'hôte"
+msgstr "Athraigh Óstach"
 
 #: lib/logitech_receiver/settings_templates.py:1298
 msgid "Switch connection to a different host"
-msgstr "Commuter la connexion vers un autre hôte"
+msgstr "Athraigh nasc chuig óstach difriúil"
 
 #: lib/logitech_receiver/settings_templates.py:1322
 msgid "Performs a left click."
-msgstr "Réalise un clic gauche."
+msgstr "Déanann cliceáil ar chlé."
 
 #: lib/logitech_receiver/settings_templates.py:1322
 msgid "Single tap"
-msgstr "Une tape simple"
+msgstr "Tapáil aonair"
 
 #: lib/logitech_receiver/settings_templates.py:1323
 msgid "Performs a right click."
-msgstr "Réalise un clic droit."
+msgstr "Déanann cliceáil ar dheis."
 
 #: lib/logitech_receiver/settings_templates.py:1323
 msgid "Single tap with two fingers"
-msgstr "Une tape simple avec deux doigts"
+msgstr "Tapáil aonair le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1324
 msgid "Single tap with three fingers"
-msgstr "Une tape simple avec trois doigts"
+msgstr "Tapáil aonair le trí mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1328
 msgid "Double tap"
-msgstr "Une double tape"
+msgstr "Tapáil faoi dhó"
 
 #: lib/logitech_receiver/settings_templates.py:1328
 msgid "Performs a double click."
-msgstr "Réalise un double clic."
+msgstr "Déanann cliceáil dhúbailte."
 
 #: lib/logitech_receiver/settings_templates.py:1329
 msgid "Double tap with two fingers"
-msgstr "Une double tape avec deux doigts"
+msgstr "Tapáil faoi dhó le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1330
 msgid "Double tap with three fingers"
-msgstr "Une double tape avec trois doigts"
+msgstr "Tapáil faoi dhó le trí mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1333
 msgid "Drags items by dragging the finger after double tapping."
-msgstr "Déplace des items en faisant glisser le doigt après la double tape."
+msgstr ""
+"Tarraingíonn sé míreanna tríd an méar a tharraingt tar éis tapáil faoi dhó."
 
 #: lib/logitech_receiver/settings_templates.py:1333
 msgid "Tap and drag"
-msgstr "Taper-glisser"
+msgstr "Tapáil agus tarraing"
 
 #: lib/logitech_receiver/settings_templates.py:1335
 msgid "Tap and drag with two fingers"
-msgstr "Taper-glisser avec deux doigts"
+msgstr "Tapáil agus tarraing le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1336
 msgid "Drags items by dragging the fingers after double tapping."
-msgstr "Déplace des items en faisant glisser les doigts après la double tape."
+msgstr ""
+"Tarraingíonn sé míreanna trí na méara a tharraingt tar éis dóibh tapáil faoi "
+"dhó."
 
 #: lib/logitech_receiver/settings_templates.py:1338
 msgid "Tap and drag with three fingers"
-msgstr "Taper-glisser avec trois doigts"
+msgstr "Tapáil agus tarraing le trí mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1341
 msgid "Suppress tap and edge gestures"
-msgstr "Supprimer les tapes et les gestes"
+msgstr "Coisc gothaí tapála agus imeall"
 
 #: lib/logitech_receiver/settings_templates.py:1342
 msgid "Disables tap and edge gestures (equivalent to pressing Fn+LeftClick)."
 msgstr ""
-"Désactive les tapes et les gestes de bords (équivaut à presser "
-"Fn+ClicGauche)."
+"Díchumasaíonn sé gothaí tapála agus imeall (comhionann le brúigh Fn+Cliceáil "
+"Ar Chlé)."
 
 #: lib/logitech_receiver/settings_templates.py:1344
 msgid "Scroll with one finger"
-msgstr "Défilement à un doigt"
+msgstr "Scrollaigh le méar amháin"
 
 #: lib/logitech_receiver/settings_templates.py:1344
 #: lib/logitech_receiver/settings_templates.py:1345
 #: lib/logitech_receiver/settings_templates.py:1348
 msgid "Scrolls."
-msgstr "Défilements."
+msgstr "Scrollaí."
 
 #: lib/logitech_receiver/settings_templates.py:1345
 #: lib/logitech_receiver/settings_templates.py:1348
 msgid "Scroll with two fingers"
-msgstr "Défilement à deux doigts"
+msgstr "Scrollaigh le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1346
 msgid "Scroll horizontally with two fingers"
-msgstr "Défilement horizontal à deux doigts"
+msgstr "Scrollaigh go cothrománach le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1346
 msgid "Scrolls horizontally."
-msgstr "Défile horizontalement."
+msgstr "Scrollaíonn go cothrománach."
 
 #: lib/logitech_receiver/settings_templates.py:1347
 msgid "Scroll vertically with two fingers"
-msgstr "Défilement vertical à deux doigts"
+msgstr "Scrollaigh go hingearach le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1347
 msgid "Scrolls vertically."
-msgstr "Défile verticalement."
+msgstr "Scrollaíonn go hingearach."
 
 #: lib/logitech_receiver/settings_templates.py:1349
 msgid "Inverts the scrolling direction."
-msgstr "Inverse la direction de défilement."
+msgstr "Déanann sé treo an scrollaigh a aisiompú."
 
 #: lib/logitech_receiver/settings_templates.py:1349
 msgid "Natural scrolling"
-msgstr "Défilement naturel"
+msgstr "Scrolláil nádúrtha"
 
 #: lib/logitech_receiver/settings_templates.py:1350
 msgid "Enables the thumbwheel."
-msgstr "Active la molette de pouce."
+msgstr "Cumasaíonn sé an roth ordóige."
 
 #: lib/logitech_receiver/settings_templates.py:1350
 msgid "Thumbwheel"
-msgstr "Molette de pouce"
+msgstr "Roth ordóige"
 
 #: lib/logitech_receiver/settings_templates.py:1361
 #: lib/logitech_receiver/settings_templates.py:1365
 msgid "Swipe from the top edge"
-msgstr "Glissement depuis le bord supérieur"
+msgstr "Svaidhpeáil ón imeall uachtarach"
 
 #: lib/logitech_receiver/settings_templates.py:1362
 msgid "Swipe from the left edge"
-msgstr "Glissement depuis le bord gauche"
+msgstr "Svaidhpeáil ón imeall clé"
 
 #: lib/logitech_receiver/settings_templates.py:1363
 msgid "Swipe from the right edge"
-msgstr "Glissement depuis le bord droit"
+msgstr "Svaidhpeáil ón imeall deas"
 
 #: lib/logitech_receiver/settings_templates.py:1364
 msgid "Swipe from the bottom edge"
-msgstr "Glissement depuis le bord inférieur"
+msgstr "Svaidhpeáil ón imeall bun"
 
 #: lib/logitech_receiver/settings_templates.py:1366
 msgid "Swipe two fingers from the left edge"
-msgstr "Glissement à deux doigts depuis le bord gauche"
+msgstr "Svaidhpeáil dhá mhéar ón imeall clé"
 
 #: lib/logitech_receiver/settings_templates.py:1367
 msgid "Swipe two fingers from the right edge"
-msgstr "Glissement à deux doigts depuis le bord droit"
+msgstr "Svaidhpeáil dhá mhéar ón imeall deas"
 
 #: lib/logitech_receiver/settings_templates.py:1368
 msgid "Swipe two fingers from the bottom edge"
-msgstr "Glissement à deux doigts depuis le bord inférieur"
+msgstr "Svaidhpeáil dhá mhéar ón imeall bun"
 
 #: lib/logitech_receiver/settings_templates.py:1369
 msgid "Swipe two fingers from the top edge"
-msgstr "Glissement à deux doigts depuis le bord supérieur"
+msgstr "Svaidhpeáil dhá mhéar ón imeall uachtarach"
 
 #: lib/logitech_receiver/settings_templates.py:1370
 #: lib/logitech_receiver/settings_templates.py:1374
 msgid "Pinch to zoom out; spread to zoom in."
-msgstr "Pincer pour réduire le zoom; écarter pour agrandir le zoom."
+msgstr "Brúigh le zúmáil amach; scaip le zúmáil isteach."
 
 #: lib/logitech_receiver/settings_templates.py:1370
 msgid "Zoom with two fingers."
-msgstr "Zoom à deux doigts."
+msgstr "Zúmáil le dhá mhéar."
 
 #: lib/logitech_receiver/settings_templates.py:1371
 msgid "Pinch to zoom out."
-msgstr "Pincer pour réduire le zoom."
+msgstr "Brúigh chun zúmáil amach."
 
 #: lib/logitech_receiver/settings_templates.py:1372
 msgid "Spread to zoom in."
-msgstr "Écarter pour agrandir le zoom."
+msgstr "Scaip chun zúmáil isteach."
 
 #: lib/logitech_receiver/settings_templates.py:1373
 msgid "Zoom with three fingers."
-msgstr "Zoom à trois doigts."
+msgstr "Zúmáil le trí mhéar."
 
 #: lib/logitech_receiver/settings_templates.py:1374
 msgid "Zoom with two fingers"
-msgstr "Zoom à deux doigts"
+msgstr "Zúmáil le dhá mhéar"
 
 #: lib/logitech_receiver/settings_templates.py:1392
 msgid "Pixel zone"
-msgstr "Zone de pixels"
+msgstr "Crios picteilíní"
 
 #: lib/logitech_receiver/settings_templates.py:1393
 msgid "Ratio zone"
-msgstr "Zone de rapport"
+msgstr "Crios cóimheasa"
 
 #: lib/logitech_receiver/settings_templates.py:1394
 msgid "Scale factor"
-msgstr "Facteur d’échelle"
+msgstr "Fachtóir scála"
 
 #: lib/logitech_receiver/settings_templates.py:1394
 msgid "Sets the cursor speed."
-msgstr "Définit la vitesse du curseur."
+msgstr "Socraíonn sé luas an chúrsóra."
 
 #: lib/logitech_receiver/settings_templates.py:1398
 msgid "Left-most coordinate."
-msgstr "Coordonnée la plus à gauche."
+msgstr "Comhordanáid is faide ar chlé."
 
 #: lib/logitech_receiver/settings_templates.py:1399
 msgid "Bottom"
-msgstr "Bas"
+msgstr "Bun"
 
 #: lib/logitech_receiver/settings_templates.py:1399
 msgid "Bottom coordinate."
-msgstr "Coordonnée du bas."
+msgstr "Comhordanáid bun."
 
 #: lib/logitech_receiver/settings_templates.py:1400
 msgid "Width"
-msgstr "Largeur"
+msgstr "Leithead"
 
 #: lib/logitech_receiver/settings_templates.py:1400
 msgid "Width."
-msgstr "Largeur."
+msgstr "Leithead."
 
 #: lib/logitech_receiver/settings_templates.py:1401
 msgid "Height"
-msgstr "Hauteur"
+msgstr "Airde"
 
 #: lib/logitech_receiver/settings_templates.py:1401
 msgid "Height."
-msgstr "Hauteur."
+msgstr "Airde."
 
 #: lib/logitech_receiver/settings_templates.py:1402
 msgid "Cursor speed."
-msgstr "Vitesse du curseur."
+msgstr "Luas an chúrsóra."
 
 #: lib/logitech_receiver/settings_templates.py:1402
 msgid "Scale"
-msgstr "Échelle"
+msgstr "Scála"
 
 #: lib/logitech_receiver/settings_templates.py:1408
 msgid "Gestures"
-msgstr "Gestes"
+msgstr "Gothaí"
 
 #: lib/logitech_receiver/settings_templates.py:1409
 msgid "Tweak the mouse/touchpad behaviour."
-msgstr "Personnaliser le comportement de la souris ou du pavé tactile."
+msgstr "Coigeartaigh iompar na luiche/an tadhaill."
 
 #: lib/logitech_receiver/settings_templates.py:1425
 msgid "Gestures Diversion"
-msgstr "Interception de la gestuelle"
+msgstr "Gothaí a atreorú"
 
 #: lib/logitech_receiver/settings_templates.py:1426
 msgid "Divert mouse/touchpad gestures."
-msgstr "Interception de la gestuelle de la souris ou du pavé tactile."
+msgstr "Atreoraigh gothaí luiche/tadhallcheap."
 
 #: lib/logitech_receiver/settings_templates.py:1442
 msgid "Gesture params"
-msgstr "Paramètres de la gestuelle"
+msgstr "Paraiméadair gotha"
 
 #: lib/logitech_receiver/settings_templates.py:1443
 msgid "Change numerical parameters of a mouse/touchpad."
-msgstr "Modifier les paramètres numérique de la souris ou du pavé tactile."
+msgstr "Athraigh paraiméadair uimhriúla luiche/tadhallcheap."
 
 #: lib/logitech_receiver/settings_templates.py:1467
 msgid "M-Key LEDs"
-msgstr "LEDs de touche M"
+msgstr "LED M-Eochair"
 
 #: lib/logitech_receiver/settings_templates.py:1469
 msgid "Control the M-Key LEDs."
-msgstr "Contrôler les LEDs de touche M."
+msgstr "Rialú na soilse LED M-Key."
 
 #: lib/logitech_receiver/settings_templates.py:1473
 #: lib/logitech_receiver/settings_templates.py:1504
 msgid "May need G Keys diverted to be effective."
 msgstr ""
-"Peut nécessiter que les touches G soient interceptées pour être effectif."
+"B’fhéidir go mbeadh gá le heochracha G a atreorú le go mbeidh siad "
+"éifeachtach."
 
 #: lib/logitech_receiver/settings_templates.py:1479
 #, python-format
 msgid "Lights up the %s key."
-msgstr "Allume la touche %s."
+msgstr "Lasann an eochair %s suas."
 
 #: lib/logitech_receiver/settings_templates.py:1498
 msgid "MR-Key LED"
-msgstr "LED de touche MR"
+msgstr "LED MR-Key"
 
 #: lib/logitech_receiver/settings_templates.py:1500
 msgid "Control the MR-Key LED."
-msgstr "Contrôler la LED de touche MR."
+msgstr "Rialú an LED MR-Key."
 
 #: lib/logitech_receiver/settings_templates.py:1521
 msgid "Persistent Key/Button Mapping"
-msgstr "Mappage touche/bouton persistant"
+msgstr "Mapáil Eochrach/Cnaipe Buan"
 
 #: lib/logitech_receiver/settings_templates.py:1523
 msgid "Permanently change the mapping for the key or button."
-msgstr "Modifiez de manière permanente le mappage de la touche ou du bouton."
+msgstr "Athraigh mapáil na heochrach nó an chnaipe go buan."
 
 #: lib/logitech_receiver/settings_templates.py:1525
 msgid ""
 "Changing important keys or buttons (such as for the left mouse button) can "
 "result in an unusable system."
 msgstr ""
-"La modification de touches ou de boutons importants (comme le bouton gauche "
-"de la souris) pourrait rendre le système inutilisable."
+"Is féidir go mbeadh córas neamhúsáideach mar thoradh ar eochracha nó cnaipí "
+"tábhachtacha a athrú (mar shampla an cnaipe luiche clé)."
 
 #: lib/logitech_receiver/settings_templates.py:1582
 msgid "Sidetone"
-msgstr "Tonalité latérale"
+msgstr "Taobh-thon"
 
 #: lib/logitech_receiver/settings_templates.py:1583
 msgid "Set sidetone level."
-msgstr "Régler le niveau de tonalité latérale."
+msgstr "Socraigh leibhéal taobh-thon."
 
 #: lib/logitech_receiver/settings_templates.py:1592
 msgid "Equalizer"
-msgstr "Égaliseur"
+msgstr "Cothromóir"
 
 #: lib/logitech_receiver/settings_templates.py:1593
 #: lib/logitech_receiver/settings_templates.py:1902
 msgid "Set equalizer levels."
-msgstr "Définir les niveaux de l'égaliseur."
+msgstr "Socraigh leibhéil cothromóra."
 
 #: lib/logitech_receiver/settings_templates.py:1615
 #: lib/logitech_receiver/settings_templates.py:1930
@@ -1173,138 +1185,140 @@ msgstr "Hz"
 
 #: lib/logitech_receiver/settings_templates.py:1621
 msgid "Power Management"
-msgstr "Gestion de l'alimentation"
+msgstr "Bainistíocht Cumhachta"
 
 #: lib/logitech_receiver/settings_templates.py:1622
 msgid "Power off in minutes (0 for never)."
-msgstr "Éteindre en quelques minutes (0 pour jamais)."
+msgstr "Múch an chumhacht i nóiméid (0 le haghaidh riamh)."
 
 #: lib/logitech_receiver/settings_templates.py:1634
 msgid "Eco Mode"
-msgstr "Mode éco"
+msgstr "Mód Éicea"
 
 #: lib/logitech_receiver/settings_templates.py:1635
 msgid "Battery saver mode."
-msgstr "Mode économie d'énergie."
+msgstr "Mód sábhála ceallraí."
 
 #: lib/logitech_receiver/settings_templates.py:1653
 msgid "Do Not Disturb"
-msgstr "Ne pas déranger"
+msgstr "Ná Cuir Isteach"
 
 #: lib/logitech_receiver/settings_templates.py:1654
 msgid "Suppress notification sounds."
-msgstr "Supprimer les notifications sonores."
+msgstr "Cuir fuaimeanna fógra faoi chois."
 
 #: lib/logitech_receiver/settings_templates.py:1661
 msgid "Mic Mute"
-msgstr "Mise en sourdine du micro"
+msgstr "Micreafón Balbhaigh"
 
 #: lib/logitech_receiver/settings_templates.py:1662
 msgid "Mute the microphone."
-msgstr "Coupez le son du micro."
+msgstr "Balbhaigh an micreafón."
 
 #: lib/logitech_receiver/settings_templates.py:1681
 msgid "Mic SNR"
-msgstr "Rapport signal/bruit du micro"
+msgstr "SNR micreafóin"
 
 #: lib/logitech_receiver/settings_templates.py:1682
 msgid "Microphone signal-to-noise ratio enhancement."
-msgstr "Amélioration du rapport signal/bruit du micro."
+msgstr "Feabhsú cóimheas comhartha-go-torann micreafóin."
 
 #: lib/logitech_receiver/settings_templates.py:1689
 msgid "AI Noise Reduction"
-msgstr "Réduction du bruit par IA"
+msgstr "Laghdú Torainn AI"
 
 #: lib/logitech_receiver/settings_templates.py:1690
 msgid "Enable AI noise reduction."
-msgstr "Activer la réduction du bruit par IA."
+msgstr "Cumasaigh laghdú torainn AI."
 
 #: lib/logitech_receiver/settings_templates.py:1697
 msgid "AI Noise Reduction Level"
-msgstr "Niveau de réduction du bruit par IA"
+msgstr "Leibhéal Laghdaithe Torainn AI"
 
 #: lib/logitech_receiver/settings_templates.py:1698
 msgid "AI noise reduction intensity."
-msgstr "Intensité de réduction du bruit par IA."
+msgstr "Déine laghdaithe torainn AI."
 
 #: lib/logitech_receiver/settings_templates.py:1707
 msgid "Headset Sidetone"
-msgstr "Retour audio du casque"
+msgstr "Taobh-thon na gCluasán"
 
 #: lib/logitech_receiver/settings_templates.py:1708
 msgid "Sidetone level (0 = off, 100 = max)."
-msgstr "Niveau de retour audio (0 = désactivé, 100 = maximum)."
+msgstr "Leibhéal taobh-thon (0 = múchta, 100 = uasmhéid)."
 
 #: lib/logitech_receiver/settings_templates.py:1771
 msgid "Mic Gain"
-msgstr "Gain du micro"
+msgstr "Gnóthachan Micreafóin"
 
 #: lib/logitech_receiver/settings_templates.py:1772
 msgid "Microphone gain level."
-msgstr "Niveau de gain du microphone."
+msgstr "Leibhéal gnóthachain micreafóin."
 
 #: lib/logitech_receiver/settings_templates.py:1824
 msgid "Audio Mix Balance"
-msgstr "Équilibrage du mixage audio"
+msgstr "Cothromaíocht Meascáin Fuaime"
 
 #: lib/logitech_receiver/settings_templates.py:1825
 msgid "Balance between game and chat audio."
-msgstr "Équilibre entre le son du jeu et celui du chat."
+msgstr "Cothromaíocht idir fuaim an chluiche agus an chomhrá."
 
 #: lib/logitech_receiver/settings_templates.py:1876
 msgid "Auto Sleep Timeout"
-msgstr "Délai de mise en veille automatique"
+msgstr "Am Teorann Codlata Uathoibríoch"
 
 #: lib/logitech_receiver/settings_templates.py:1877
 msgid ""
 "Idle time in minutes before the headset enters sleep mode (0 = disabled)."
 msgstr ""
-"Temps d'inactivité en minutes avant que le casque ne passe en mode veille (0 "
-"= désactivé)."
+"Am díomhaoin i nóiméid sula dtéann an cluasán isteach i mód codlata (0 = "
+"díchumasaithe)."
 
 #: lib/logitech_receiver/settings_templates.py:1901
 msgid "Headset Equalizer"
-msgstr "Égaliseur du casque"
+msgstr "Cothromóir Cluasán"
 
 #: lib/logitech_receiver/settings_templates.py:1996
 msgid "Headset Advanced EQ"
-msgstr "Égaliseur avancé du casque"
+msgstr "Cothromóir Ardleibhéil Cluasán"
 
 #: lib/logitech_receiver/settings_templates.py:1997
 msgid "Per-band gain for the headset's active parametric EQ."
-msgstr "Gain par bande pour l'égaliseur paramétrique actif du casque."
+msgstr ""
+"Gnóthachan in aghaidh an bhanda do chothromóir paraiméadrach gníomhach na "
+"gcluasán."
 
 #: lib/logitech_receiver/settings_templates.py:2268
 msgid "EQ Preset"
-msgstr "Préréglage de l'égaliseur"
+msgstr "Réamhshocrú Cothromóra"
 
 #: lib/logitech_receiver/settings_templates.py:2269
 msgid "Switch the active EQ preset. Factory presets are read-only."
 msgstr ""
-"Basculer le préréglage d'égalisation actif. Les préréglages d'usine sont en "
-"lecture seule."
+"Athraigh an réamhshocrú cothromóra gníomhach. Is inléite amháin atá "
+"réamhshocruithe monarchan."
 
 #: lib/logitech_receiver/settings_templates.py:2294
 msgid "Slot"
-msgstr ""
+msgstr "Sliotán"
 
 #: lib/logitech_receiver/settings_templates.py:2296
 msgid "(factory)"
-msgstr "(usine)"
+msgstr "(monarcha)"
 
 #: lib/logitech_receiver/settings_templates.py:2429
 #: lib/logitech_receiver/settings_templates.py:3206
 #: lib/logitech_receiver/settings_templates.py:3298
 msgid "LED Control"
-msgstr "Contrôle de LED"
+msgstr "Rialú LED"
 
 #: lib/logitech_receiver/settings_templates.py:2430
 msgid "Allow Solaar to control the headset LED zones."
-msgstr "Autoriser Solaar à contrôler les zones de LED du casque."
+msgstr "Lig do Solaar criosanna LED na gcluasán a rialú."
 
 #: lib/logitech_receiver/settings_templates.py:2478
 msgid "Per-zone Lighting"
-msgstr "Éclairage par zone"
+msgstr "Soilsiú in aghaidh an chrios"
 
 #: lib/logitech_receiver/settings_templates.py:2480
 msgid ""
@@ -1312,103 +1326,107 @@ msgid ""
 "color.\n"
 "LED Control needs to be set to Solaar to be effective."
 msgstr ""
-"Remplacer les couleurs de chaque zone individuellement. L'option « Aucun "
-"changement » conserve la couleur principale des LEDs.\n"
-"Le contrôle de LED doit être défini sur Solaar pour être effectif."
+"Sáraigh dathanna criosanna aonair. Faigheann 'Gan athrú' dath príomhúil na "
+"soilse LED mar oidhreacht.\n"
+"Ní mór Rialú LED a shocrú go Solaar le go mbeidh sé éifeachtach."
 
 #: lib/logitech_receiver/settings_templates.py:2498
 msgid "Zone"
-msgstr "Zone"
+msgstr "Crios"
 
 #: lib/logitech_receiver/settings_templates.py:2620
 #: lib/logitech_receiver/settings_templates.py:2908
 #: lib/logitech_receiver/settings_templates.py:3648
 msgid "Secondary"
-msgstr "Dérivé"
+msgstr "Tánaisteach"
 
 #: lib/logitech_receiver/settings_templates.py:2621
 #: lib/logitech_receiver/settings_templates.py:3234
 msgid "Speed"
-msgstr "Vitesse"
+msgstr "Luas"
 
 #: lib/logitech_receiver/settings_templates.py:2688
 msgid "Startup Effect"
-msgstr "Effet de démarrage"
+msgstr "Éifeacht Tosaithe"
 
 #: lib/logitech_receiver/settings_templates.py:2690
 msgid "Firmware lighting effect played when the headset powers on or wakes."
 msgstr ""
+"Éifeacht soilsithe dochtearraí a sheinmtear nuair a chuirtear na cluasáin ar "
+"siúl nó nuair a dhúisítear iad."
 
 #: lib/logitech_receiver/settings_templates.py:2692
 #: lib/logitech_receiver/settings_templates.py:2703
 msgid "Device default: Primary #00B8FC, Secondary #FF00AB, Speed 100."
-msgstr ""
+msgstr "Réamhshocrú gléis: Príomhghléas #00B8FC, Meánghléas #FF00AB, Luas 100."
 
 #: lib/logitech_receiver/settings_templates.py:2699
 msgid "Shutdown Effect"
-msgstr "Effet de fermeture"
+msgstr "Éifeacht Múchta"
 
 #: lib/logitech_receiver/settings_templates.py:2701
 msgid "Firmware lighting effect played when the headset powers off or sleeps."
 msgstr ""
+"Éifeacht soilsithe dochtearraí a sheinntear nuair a mhúchtar na cluasáin nó "
+"nuair a théann siad i gcodladh."
 
 #: lib/logitech_receiver/settings_templates.py:2710
 msgid "Passive Effect"
-msgstr "Effet passif"
+msgstr "Éifeacht Éighníomhach"
 
 #: lib/logitech_receiver/settings_templates.py:2712
 msgid "Firmware lighting effect played while the headset is idle."
-msgstr ""
+msgstr "Éifeacht soilsithe dochtearraí á seinnt agus an cluasán díomhaoin."
 
 #: lib/logitech_receiver/settings_templates.py:2714
 msgid "Device default: Primary #00B8FC, Secondary #FF00AB, Speed 75."
-msgstr ""
+msgstr "Réamhshocrú gléis: Príomhghléas #00B8FC, Meánghléas #FF00AB, Luas 75."
 
 #: lib/logitech_receiver/settings_templates.py:2833
 msgid "Onboard Effect"
-msgstr "Effet embarqué"
+msgstr "Éifeacht Ar Bord"
 
 #: lib/logitech_receiver/settings_templates.py:2834
 msgid "Firmware RGB effect the headset plays on its own."
-msgstr ""
+msgstr "Éifeacht RGB Dochtearraí a sheinneann an cluasán leis féin."
 
 #: lib/logitech_receiver/settings_templates.py:2909
 #: lib/logitech_receiver/settings_templates.py:3243
 msgid "Intensity"
-msgstr "Intensité"
+msgstr "Déine"
 
 #: lib/logitech_receiver/settings_templates.py:2910
 #: lib/logitech_receiver/settings_templates.py:3245
 msgid "Saturation"
-msgstr "Saturation"
+msgstr "Sáithiú"
 
 #: lib/logitech_receiver/settings_templates.py:2914
 #: lib/logitech_receiver/settings_templates.py:3238
 msgid "Period"
-msgstr "Période"
+msgstr "Tréimhse"
 
 #: lib/logitech_receiver/settings_templates.py:2919
 #: lib/logitech_receiver/settings_templates.py:3250
 msgid "Direction"
-msgstr "Direction"
+msgstr "Treo"
 
 #: lib/logitech_receiver/settings_templates.py:3134
 msgid "Brightness Control"
-msgstr "Contrôle de la luminosité"
+msgstr "Rialú Gile"
 
 #: lib/logitech_receiver/settings_templates.py:3135
 msgid "Control overall brightness"
-msgstr "Contrôle de la luminosité globale"
+msgstr "Rialú gile iomlán"
 
 #: lib/logitech_receiver/settings_templates.py:3207
 #: lib/logitech_receiver/settings_templates.py:3299
 msgid "Allow Solaar to control LED zones."
-msgstr "Autoriser Solaar à contrôler les zones de LED."
+msgstr "Lig do Solaar criosanna LED a rialú."
 
 #: lib/logitech_receiver/settings_templates.py:3230
 #: lib/logitech_receiver/settings_templates.py:3744
 msgid "LED Zone Effects"
-msgstr "Effet de zone de LED"
+msgstr "Éifeachtaí Crios LED"
 
 #: lib/logitech_receiver/settings_templates.py:3231
 #: lib/logitech_receiver/settings_templates.py:3399
@@ -1416,66 +1434,64 @@ msgstr "Effet de zone de LED"
 #: lib/logitech_receiver/settings_templates.py:3546
 #: lib/logitech_receiver/settings_templates.py:3745
 msgid "LED Control needs to be enabled."
-msgstr "Le contrôle de LED doit être activé."
+msgstr "Ní mór Rialú LED a chumasú."
 
 #: lib/logitech_receiver/settings_templates.py:3231
 #: lib/logitech_receiver/settings_templates.py:3745
 msgid "Set effect for LED Zone"
-msgstr "Définir l'effet pour la zone de LED"
+msgstr "Socraigh éifeacht don Chrios LED"
 
 #: lib/logitech_receiver/settings_templates.py:3233
 msgid "Color"
-msgstr "Couleur"
+msgstr "Dath"
 
 #: lib/logitech_receiver/settings_templates.py:3244
 msgid "Ramp"
-msgstr ""
+msgstr "Rampa"
 
 #: lib/logitech_receiver/settings_templates.py:3246
 msgid "Waveform"
-msgstr ""
+msgstr "Tonnfhoirm"
 
 #: lib/logitech_receiver/settings_templates.py:3279
 msgid "LEDs"
-msgstr "LEDs"
+msgstr "LEDanna"
 
 #: lib/logitech_receiver/settings_templates.py:3398
 msgid "Idle Timeout"
-msgstr "Délai d'inactivité"
+msgstr "Am Teorann Díomhaoin"
 
 #: lib/logitech_receiver/settings_templates.py:3399
 msgid "Time without input before LED idle effect starts."
-msgstr ""
-"Délai d'inactivité avant le déclenchement de l'effet de veille de la LED."
+msgstr "Am gan ionchur sula dtosaíonn éifeacht dhíomhaoin LED."
 
 #: lib/logitech_receiver/settings_templates.py:3435
 msgid "Idle Effect"
-msgstr "Effet d'inactivité"
+msgstr "Éifeacht Díomhaoin"
 
 #: lib/logitech_receiver/settings_templates.py:3437
 msgid ""
 "What happens to LEDs when idle — dim to a percentage, change the base color, "
 "or play an animation."
 msgstr ""
-"Ce qu'il se passe lorsque les LEDs sont inactives — elles s'assombrissent à "
-"un certain pourcentage, leurs couleurs de base changent ou elles lancent une "
-"animation."
+"Cad a tharlaíonn do na soilse LED nuair a bhíonn siad díomhaoin — laghdaigh "
+"go céatadán, athraigh an dath bonn, nó seinn beochan."
 
 #: lib/logitech_receiver/settings_templates.py:3520
 msgid "No change"
-msgstr "Aucun changement"
+msgstr "Gan athrú"
 
 #: lib/logitech_receiver/settings_templates.py:3545
 msgid "Sleep Timeout"
-msgstr "Délai de mise en veille"
+msgstr "Sos Codlata"
 
 #: lib/logitech_receiver/settings_templates.py:3546
 msgid "Time without input before LEDs fade off completely."
-msgstr "Durée d'inactivité avant l'extinction complète des LEDs."
+msgstr "Am gan ionchur sula múchann na soilse LED go hiomlán."
 
 #: lib/logitech_receiver/settings_templates.py:3719
 msgid "Startup Animation"
-msgstr "Animation de démarrage"
+msgstr "Beochan Tosaithe"
 
 #: lib/logitech_receiver/settings_templates.py:3722
 msgid ""
@@ -1483,132 +1499,141 @@ msgid ""
 "on.\n"
 "Setting persists on the device (non-volatile)."
 msgstr ""
+"Beochan a sheinnear le firmware nuair a dhúisíonn an méarchlár ó chodladh "
+"domhain nó nuair a chuirtear ar siúl é.\n"
+"Fanann an socrú ar an ngléas (neamh-luaineach)."
 
 #: lib/logitech_receiver/settings_templates.py:3726
 #: lib/logitech_receiver/settings_templates.py:3737
 msgid "Device default: Primary #FF0081, Secondary #80AAFF."
-msgstr ""
+msgstr "Réamhshocrú gléis: Príomhúil #FF0081, Tánaisteach #80AAFF."
 
 #: lib/logitech_receiver/settings_templates.py:3733
 msgid "Shutdown Animation"
-msgstr "Animation de fermeture"
+msgstr "Beochan Múchta"
 
 #: lib/logitech_receiver/settings_templates.py:3735
 msgid ""
 "Firmware-played animation when the keyboard powers off.\n"
 "Setting persists on the device (non-volatile)."
 msgstr ""
+"Beochan a sheinneadh le dochtearraí nuair a mhúchtar an méarchlár.\n"
+"Fanann an socrú ar an ngléas (neamh-luaineach)."
 
 #: lib/logitech_receiver/settings_templates.py:3847
 #: lib/solaar/ui/perkey/dialog.py:87
 msgid "Per-key Lighting"
-msgstr "Éclairage par touche"
+msgstr "Soilsiú in aghaidh an eochrach"
 
 #: lib/logitech_receiver/settings_templates.py:3849
 msgid "Control per-key lighting."
-msgstr "Contrôler l’éclairage par touche."
+msgstr "Rialú soilsiú in aghaidh an eochrach."
 
 #: lib/logitech_receiver/settings_templates.py:3851
 msgid ""
 "LED Control needs to be enabled and the zone effect set to Static for per-"
 "key paint to be visible."
 msgstr ""
+"Ní mór Rialú LED a chumasú agus éifeacht an chrios a shocrú go Statach le go "
+"mbeidh péint in aghaidh an eochrach le feiceáil."
 
 #: lib/logitech_receiver/settings_templates.py:4182
 msgid "Force Sensing Buttons"
-msgstr "Boutons à détection de pression"
+msgstr "Cnaipí Braite Fórsa"
 
 #: lib/logitech_receiver/settings_templates.py:4183
 msgid "Change the force required to activate button."
-msgstr "Modifier la force nécessaire pour activer le bouton."
+msgstr "Athraigh an fórsa atá ag teastáil chun an cnaipe a ghníomhachtú."
 
 #: lib/logitech_receiver/settings_templates.py:4200
 msgid "Force Sensing Button"
-msgstr "Bouton à détection de pression"
+msgstr "Cnaipe Braite Fórsa"
 
 #: lib/logitech_receiver/settings_templates.py:4316
 msgid "Analog Button Tuning"
-msgstr ""
+msgstr "Tiúnáil Cnaipe Analógach"
 
 #: lib/logitech_receiver/settings_templates.py:4317
 msgid ""
 "Configure analog button settings including actuation point, rapid trigger, "
 "and haptics."
 msgstr ""
+"Cumraigh socruithe cnaipe analógacha lena n-áirítear pointe gníomhachtaithe, "
+"spreagadh tapa, agus haptics."
 
 #: lib/logitech_receiver/settings_templates.py:4347
 #, python-format
 msgid "Actuation point depth (1=shallow, %d=deep)."
-msgstr ""
+msgstr "Doimhneacht phointe gníomhachtaithe (1=éadomhain, %d=doimhneacht)."
 
 #: lib/logitech_receiver/settings_templates.py:4355
 #, python-format
 msgid "Rapid trigger sensitivity (1..%d)."
-msgstr "Sensibilité de déclenchement rapide (1..%d)."
+msgstr "Íogaireacht thapa spreagtha (1..%d)."
 
 #: lib/logitech_receiver/settings_templates.py:4363
 #, python-format
 msgid "Click haptic feedback intensity (0=off, %d=max)."
-msgstr "Intensité du retour haptique par clic (0=désactivé, %d=max)."
+msgstr "Déine aiseolais haptic cliceáil (0=as, %d=uas)."
 
 #: lib/logitech_receiver/settings_templates.py:4371
 msgid "Haptic Feedback Level"
-msgstr "Niveau de retour haptique"
+msgstr "Leibhéal Aiseolais Haptic"
 
 #: lib/logitech_receiver/settings_templates.py:4372
 msgid "Change power of haptic feedback.  (Zero to turn off.)"
-msgstr "Modifiez l'intensité du retour haptique. (Zéro pour éteindre.)"
+msgstr "Athraigh cumhacht an aiseolais haptic.  (Nialas chun é a mhúchadh.)"
 
 #: lib/logitech_receiver/settings_templates.py:4414
 msgid "Play Haptic Waveform"
-msgstr ""
+msgstr "Seinn Tonnfhorm Haptic"
 
 #: lib/logitech_receiver/settings_templates.py:4415
 msgid "Tell device to play a haptic waveform."
-msgstr ""
+msgstr "Abair leis an ngléas tonnfhoirm haptic a sheinm."
 
 #: lib/solaar/ui/__init__.py:120
 msgid "Another Solaar process is already running so just expose its window"
 msgstr ""
-"Un autre processus Solaar est déjà en cours d'exécution, il suffit donc "
-"d'afficher sa fenêtre"
+"Tá próiseas Solaar eile ag rith cheana féin mar sin níl le déanamh ach a "
+"fhuinneog a nochtadh"
 
 #: lib/solaar/ui/about/model.py:36
 msgid ""
 "Manages Logitech receivers,\n"
 "keyboards, mice, and tablets."
 msgstr ""
-"Gère les récepteurs, claviers,\n"
-"souris et tablettes Logitech."
+"Bainistíonn glacadóirí, méarchláir,\n"
+"lucha agus táibléid Logitech."
 
 #: lib/solaar/ui/about/model.py:64
 msgid "Additional Programming"
-msgstr "Programmation supplémentaire"
+msgstr "Cláreagrú Breise"
 
 #: lib/solaar/ui/about/model.py:65
 msgid "GUI design"
-msgstr "Interface graphique"
+msgstr "Dearadh GUI"
 
 #: lib/solaar/ui/about/model.py:67
 msgid "Testing"
-msgstr "Testeur"
+msgstr "Tástáil"
 
 #: lib/solaar/ui/about/model.py:75
 msgid "Logitech documentation"
-msgstr "Documentațion Logitech"
+msgstr "Doiciméadú Logitech"
 
 #: lib/solaar/ui/action.py:88 lib/solaar/ui/action.py:92
 #: lib/solaar/ui/window.py:208
 msgid "Unpair"
-msgstr "Déconnecter"
+msgstr "Díphéireáil"
 
 #: lib/solaar/ui/action.py:91 lib/solaar/ui/diversion_rules.py:142
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Cealaigh"
 
 #: lib/solaar/ui/common.py:42
 msgid "Permissions error"
-msgstr "Erreur de permissions"
+msgstr "Earráid ceadanna"
 
 #: lib/solaar/ui/common.py:44
 #, python-format
@@ -1616,20 +1641,20 @@ msgid ""
 "Found a Logitech receiver or device (%s), but did not have permission to "
 "open it."
 msgstr ""
-"Un récepteur ou un périphérique Logitech (%s) a été trouvé, mais sans "
-"l'autorisation de l'ouvrir."
+"Fuarthas glacadóir nó gléas Logitech (%s), ach ní raibh cead agam é a "
+"oscailt."
 
 #: lib/solaar/ui/common.py:46
 msgid ""
 "If you've just installed Solaar, try disconnecting the receiver or device "
 "and then reconnecting it."
 msgstr ""
-"Si vous venez d'installer Solaar, essayez de déconnecter le récepteur ou le "
-"périphérique, puis de le reconnecter."
+"Má tá Solaar suiteáilte agat díreach, déan iarracht an glacadóir nó an gléas "
+"a dhícheangal agus ansin é a athcheangal."
 
 #: lib/solaar/ui/common.py:49
 msgid "Cannot connect to device error"
-msgstr "Impossible de se connecter au périphérique"
+msgstr "Ní féidir ceangal leis an ngléas earráide"
 
 #: lib/solaar/ui/common.py:51
 #, python-format
@@ -1637,419 +1662,414 @@ msgid ""
 "Found a Logitech receiver or device at %s, but encountered an error "
 "connecting to it."
 msgstr ""
-"Un récepteur ou un périphérique Logitech a été trouvé à %s, mais une erreur "
-"s'est produite lors de la connexion."
+"Fuarthas glacadóir nó gléas Logitech ag %s, ach tháinig earráid ar an "
+"gceangal leis."
 
 #: lib/solaar/ui/common.py:53
 msgid ""
 "Try disconnecting the device and then reconnecting it or turning it off and "
 "then on."
 msgstr ""
-"Essayez de déconnecter le périphérique, puis de le reconnecter ou de "
-"l'éteindre puis de le rallumer."
+"Bain triail as an ngléas a dhícheangal agus ansin é a athcheangal nó é a "
+"mhúchadh agus a chur air arís."
 
 #: lib/solaar/ui/common.py:56
 msgid "Unpairing failed"
-msgstr "La déconnexion a échouée"
+msgstr "Theip ar dhíphéireáil"
 
 #: lib/solaar/ui/common.py:58
 #, python-brace-format
 msgid "Failed to unpair %{device} from %{receiver}."
-msgstr "Impossible de dissocier %{device} de %{receiver}."
+msgstr "Theip ar %{device} a dhíphéireáil ó %{receiver}."
 
 #: lib/solaar/ui/common.py:63
 msgid "The receiver returned an error, with no further details."
-msgstr "Le récepteur a retourné une erreur, sans plus de détails."
+msgstr "Thug an glacadóir earráid ar ais, gan aon sonraí breise."
 
 #: lib/solaar/ui/config_panel.py:254
 msgid "Complete - ENTER to change"
-msgstr "Complet - ENTRER pour modifier"
+msgstr "Críochnaithe - ENTER le hathrú"
 
 #: lib/solaar/ui/config_panel.py:254
 msgid "Incomplete"
-msgstr "Incomplet"
+msgstr "Neamhchríochnaithe"
 
 #: lib/solaar/ui/config_panel.py:500 lib/solaar/ui/config_panel.py:552
 #: lib/solaar/ui/config_panel.py:619
 #, python-format
 msgid "%d value"
 msgid_plural "%d values"
-msgstr[0] "valeur %d"
-msgstr[1] "valeurs %d"
+msgstr[0] "%d luach"
+msgstr[1] "%d luachanna"
+msgstr[2] "%d luachanna"
 
 #: lib/solaar/ui/config_panel.py:805
 msgid "Changes allowed"
-msgstr "Modifications autorisées"
+msgstr "Athruithe ceadaithe"
 
 #: lib/solaar/ui/config_panel.py:806
 msgid "No changes allowed"
-msgstr "Aucune modification autorisée"
+msgstr "Ní cheadaítear aon athruithe"
 
 #: lib/solaar/ui/config_panel.py:807
 msgid "Ignore this setting"
-msgstr "Ignorer ce réglage"
+msgstr "Déan neamhaird den socrú seo"
 
 #: lib/solaar/ui/config_panel.py:1022
 msgid "Working"
-msgstr "En fonctionnement"
+msgstr "Ag obair"
 
 #: lib/solaar/ui/config_panel.py:1025
 msgid "Read/write operation failed."
-msgstr "Les opérations de lecture/écriture ont échouée."
+msgstr "Theip ar an oibríocht léigh/scríbhneoireachta."
 
 #: lib/solaar/ui/desktop_notifications.py:112
 msgid "unspecified reason"
-msgstr "raison non précisée"
+msgstr "cúis neamhshonraithe"
 
 #: lib/solaar/ui/diversion_rules.py:104
 msgid "Built-in rules"
-msgstr "Règles pré-définies"
+msgstr "Rialacha ionsuite"
 
 #: lib/solaar/ui/diversion_rules.py:104
 msgid "User-defined rules"
-msgstr "Règles définies par l'utilisateur"
+msgstr "Rialacha sainmhínithe ag an úsáideoir"
 
 #: lib/solaar/ui/diversion_rules.py:106 lib/solaar/ui/diversion_rules.py:1127
 msgid "Rule"
-msgstr "Règle"
+msgstr "Riail"
 
 #: lib/solaar/ui/diversion_rules.py:107 lib/solaar/ui/diversion_rules.py:383
 #: lib/solaar/ui/diversion_rules.py:510
 msgid "Sub-rule"
-msgstr "Sous-règle"
+msgstr "Fo-riail"
 
 #: lib/solaar/ui/diversion_rules.py:109
 msgid "[empty]"
-msgstr "[vide]"
+msgstr "[folamh]"
 
 #: lib/solaar/ui/diversion_rules.py:133
 msgid "Make changes permanent?"
-msgstr "Rendre les modifications permanentes ?"
+msgstr "Déan athruithe buana?"
 
 #: lib/solaar/ui/diversion_rules.py:138
 msgid "Yes"
-msgstr "Oui"
+msgstr "Tá"
 
 #: lib/solaar/ui/diversion_rules.py:140
 msgid "No"
-msgstr "Non"
+msgstr "Níl"
 
 #: lib/solaar/ui/diversion_rules.py:145
 msgid "If you choose No, changes will be lost when Solaar is closed."
-msgstr ""
-"Si vous choisissez Non, les changements seront perdus à la fermeture de "
-"Solaar."
+msgstr "Mura roghnaíonn tú Níl, caillfear na hathruithe nuair a dhúnfar Solaar."
 
 #: lib/solaar/ui/diversion_rules.py:274
 msgid "Paste here"
-msgstr "Coller ici"
+msgstr "Greamaigh anseo"
 
 #: lib/solaar/ui/diversion_rules.py:276
 msgid "Paste above"
-msgstr "Coller ci-dessus"
+msgstr "Greamaigh thuas"
 
 #: lib/solaar/ui/diversion_rules.py:278
 msgid "Paste below"
-msgstr "Coller ci-dessous"
+msgstr "Greamaigh thíos"
 
 #: lib/solaar/ui/diversion_rules.py:284
 msgid "Paste rule here"
-msgstr "Coller la règle ici"
+msgstr "Greamaigh riail anseo"
 
 #: lib/solaar/ui/diversion_rules.py:286
 msgid "Paste rule above"
-msgstr "Coller la règle ci-dessus"
+msgstr "Greamaigh an riail thuas"
 
 #: lib/solaar/ui/diversion_rules.py:288
 msgid "Paste rule below"
-msgstr "Coller la règle ci-dessous"
+msgstr "Greamaigh riail thíos"
 
 #: lib/solaar/ui/diversion_rules.py:292
 msgid "Paste rule"
-msgstr "Coller la règle"
+msgstr "Riail ghreamaithe"
 
 #: lib/solaar/ui/diversion_rules.py:307
 msgid "Insert here"
-msgstr "Insérer ici"
+msgstr "Cuir isteach anseo"
 
 #: lib/solaar/ui/diversion_rules.py:309
 msgid "Insert above"
-msgstr "Insérer ci-dessus"
+msgstr "Cuir isteach thuas"
 
 #: lib/solaar/ui/diversion_rules.py:311
 msgid "Insert below"
-msgstr "Insérer ci-dessous"
+msgstr "Cuir isteach thíos"
 
 #: lib/solaar/ui/diversion_rules.py:317
 msgid "Insert new rule here"
-msgstr "Insérer une nouvelle règle ici"
+msgstr "Cuir riail nua isteach anseo"
 
 #: lib/solaar/ui/diversion_rules.py:319
 msgid "Insert new rule above"
-msgstr "Insérer une nouvelle règle ci-dessus"
+msgstr "Cuir riail nua isteach thuas"
 
 #: lib/solaar/ui/diversion_rules.py:321
 msgid "Insert new rule below"
-msgstr "Insérer une nouvelle règle ci-dessous"
+msgstr "Cuir riail nua isteach thíos"
 
 #: lib/solaar/ui/diversion_rules.py:348
 msgid "Flatten"
-msgstr "Aplanir"
+msgstr "Leacaigh"
 
 #: lib/solaar/ui/diversion_rules.py:381
 msgid "Insert"
-msgstr "Insérer"
+msgstr "Cuir isteach"
 
 #: lib/solaar/ui/diversion_rules.py:384 lib/solaar/ui/diversion_rules.py:512
 #: lib/solaar/ui/diversion_rules.py:1159
 msgid "Or"
-msgstr "Ou"
+msgstr "Nó"
 
 #: lib/solaar/ui/diversion_rules.py:385 lib/solaar/ui/diversion_rules.py:511
 #: lib/solaar/ui/diversion_rules.py:1145
 msgid "And"
-msgstr "Et"
+msgstr "Agus"
 
 #: lib/solaar/ui/diversion_rules.py:387
 msgid "Condition"
-msgstr "Condition"
+msgstr "Coinníoll"
 
 #: lib/solaar/ui/diversion_rules.py:389 lib/solaar/ui/rule_conditions.py:154
 msgid "Feature"
-msgstr "Fonctionnalité"
+msgstr "Gné"
 
 #: lib/solaar/ui/diversion_rules.py:390 lib/solaar/ui/rule_conditions.py:188
 msgid "Report"
-msgstr "Rapport"
+msgstr "Tuairisc"
 
 #: lib/solaar/ui/diversion_rules.py:391 lib/solaar/ui/rule_conditions.py:69
 msgid "Process"
-msgstr "Processus"
+msgstr "Próiseas"
 
 #: lib/solaar/ui/diversion_rules.py:392
 msgid "Mouse process"
-msgstr "Processus de la souris"
+msgstr "Próiseas luiche"
 
 #: lib/solaar/ui/diversion_rules.py:393 lib/solaar/ui/rule_conditions.py:225
 msgid "Modifiers"
-msgstr "Modificateurs"
+msgstr "Modhnóirí"
 
 #: lib/solaar/ui/diversion_rules.py:394 lib/solaar/ui/rule_conditions.py:277
 msgid "Key"
-msgstr "Touche"
+msgstr "Eochair"
 
 #: lib/solaar/ui/diversion_rules.py:395 lib/solaar/ui/rule_conditions.py:318
 msgid "KeyIsDown"
-msgstr ""
+msgstr "EochairIsSíos"
 
 #: lib/solaar/ui/diversion_rules.py:396 lib/solaar/ui/diversion_rules.py:1433
 msgid "Active"
-msgstr "Actif"
+msgstr "Gníomhach"
 
 #: lib/solaar/ui/diversion_rules.py:397 lib/solaar/ui/diversion_rules.py:1391
 #: lib/solaar/ui/diversion_rules.py:1442 lib/solaar/ui/diversion_rules.py:1488
 msgid "Device"
-msgstr "Périphérique"
+msgstr "Gléas"
 
 #: lib/solaar/ui/diversion_rules.py:398 lib/solaar/ui/diversion_rules.py:1468
 msgid "Host"
-msgstr "Hôte"
+msgstr "Óstach"
 
 #: lib/solaar/ui/diversion_rules.py:399 lib/solaar/ui/diversion_rules.py:1507
 msgid "Setting"
-msgstr "Réglage"
+msgstr "Socrú"
 
 #: lib/solaar/ui/diversion_rules.py:400 lib/solaar/ui/rule_conditions.py:333
 #: lib/solaar/ui/rule_conditions.py:382
 msgid "Test"
-msgstr "Test"
+msgstr "Tástáil"
 
 #: lib/solaar/ui/diversion_rules.py:401 lib/solaar/ui/rule_conditions.py:507
 msgid "Test bytes"
-msgstr "Octets de test"
+msgstr "Bheiteanna tástála"
 
 #: lib/solaar/ui/diversion_rules.py:402 lib/solaar/ui/rule_conditions.py:608
 msgid "Mouse Gesture"
-msgstr "Geste à la souris"
+msgstr "Gotha Luiche"
 
 #: lib/solaar/ui/diversion_rules.py:406
 msgid "Action"
-msgstr "Action"
+msgstr "Gníomh"
 
 #: lib/solaar/ui/diversion_rules.py:408 lib/solaar/ui/rule_actions.py:138
 msgid "Key press"
-msgstr "Appui de touche"
+msgstr "Brúigh eochair"
 
 #: lib/solaar/ui/diversion_rules.py:409 lib/solaar/ui/rule_actions.py:191
 msgid "Mouse scroll"
-msgstr "Défilement de la souris"
+msgstr "Scrollaigh luiche"
 
 #: lib/solaar/ui/diversion_rules.py:410 lib/solaar/ui/rule_actions.py:256
 msgid "Mouse click"
-msgstr "Clic de la souris"
+msgstr "Cliceáil luiche"
 
 #: lib/solaar/ui/diversion_rules.py:411
 msgid "Set"
-msgstr "Définir"
+msgstr "Socraigh"
 
 #: lib/solaar/ui/diversion_rules.py:412 lib/solaar/ui/rule_actions.py:328
 msgid "Execute"
-msgstr "Exécuter"
+msgstr "Forghníomhaigh"
 
 #: lib/solaar/ui/diversion_rules.py:413 lib/solaar/ui/diversion_rules.py:1190
 msgid "Later"
-msgstr "Plus tard"
+msgstr "Níos déanaí"
 
 #: lib/solaar/ui/diversion_rules.py:442
 msgid "Insert new rule"
-msgstr "Insérer nouvelle règle"
+msgstr "Cuir riail nua isteach"
 
 #: lib/solaar/ui/diversion_rules.py:462 lib/solaar/ui/rule_actions.py:82
 #: lib/solaar/ui/rule_actions.py:287 lib/solaar/ui/rule_conditions.py:556
 msgid "Delete"
-msgstr "Effacer"
+msgstr "Scrios"
 
 #: lib/solaar/ui/diversion_rules.py:484
 msgid "Negate"
-msgstr "Nier"
+msgstr "Néig"
 
 #: lib/solaar/ui/diversion_rules.py:508
 msgid "Wrap with"
-msgstr "Entoure"
+msgstr "Fillte le"
 
 #: lib/solaar/ui/diversion_rules.py:538
 msgid "Cut"
-msgstr "Couper"
+msgstr "Gearr"
 
 #: lib/solaar/ui/diversion_rules.py:554
 msgid "Paste"
-msgstr "Coller"
+msgstr "Greamaigh"
 
 #: lib/solaar/ui/diversion_rules.py:560
 msgid "Copy"
-msgstr "Copier"
+msgstr "Cóipeáil"
 
 #: lib/solaar/ui/diversion_rules.py:569
 msgid "Solaar Rule Editor"
-msgstr "Éditeur de règle Solaar"
+msgstr "Eagarthóir Rialacha Solaar"
 
 #: lib/solaar/ui/diversion_rules.py:669
 msgid "Save changes"
-msgstr "Sauvegarder les modifications"
+msgstr "Sábháil athruithe"
 
 #: lib/solaar/ui/diversion_rules.py:674
 msgid "Discard changes"
-msgstr "Annuler les modifications"
+msgstr "Scrios athruithe"
 
 #: lib/solaar/ui/diversion_rules.py:1105
 msgid "This editor does not support the selected rule component yet."
-msgstr "Cet éditeur ne gère pas encore le composant de règle sélectionné."
+msgstr ""
+"Ní thacaíonn an t-eagarthóir seo leis an gcomhpháirt riail roghnaithe go "
+"fóill."
 
 #: lib/solaar/ui/diversion_rules.py:1170
 msgid ""
 "Number of seconds to delay.  Delay between 0 and 1 is done with higher "
 "precision."
 msgstr ""
-"Nombre de secondes de report. Le délai entre 0 et 1 est effectué avec une "
-"plus grande précision."
+"Líon na soicindí le moill.  Déantar moill idir 0 agus 1 le cruinneas níos "
+"airde."
 
 #: lib/solaar/ui/diversion_rules.py:1208
 msgid "Not"
-msgstr "Non"
+msgstr "Ní"
 
 #: lib/solaar/ui/diversion_rules.py:1239
 msgid "Toggle"
-msgstr "Basculer"
+msgstr "Scoránaigh"
 
 #: lib/solaar/ui/diversion_rules.py:1240
 msgid "True"
-msgstr "Vrai"
+msgstr "Fíor"
 
 #: lib/solaar/ui/diversion_rules.py:1241
 msgid "False"
-msgstr "Faux"
+msgstr "Bréagach"
 
 #: lib/solaar/ui/diversion_rules.py:1254
 msgid "Unsupported setting"
-msgstr "Réglage non pris en charge"
+msgstr "Socrú gan tacaíocht"
 
 #: lib/solaar/ui/diversion_rules.py:1397 lib/solaar/ui/diversion_rules.py:1416
 #: lib/solaar/ui/diversion_rules.py:1494 lib/solaar/ui/diversion_rules.py:1758
 #: lib/solaar/ui/diversion_rules.py:1776
 msgid "Originating device"
-msgstr "Périphérique d'origine"
+msgstr "Gléas tionscnaimh"
 
 #: lib/solaar/ui/diversion_rules.py:1429
 msgid "Device is active and its settings can be changed."
-msgstr "Le périphérique est actif et ses paramètres peuvent être modifiés."
+msgstr "Tá an gléas gníomhach agus is féidir a shocruithe a athrú."
 
 #: lib/solaar/ui/diversion_rules.py:1438
 msgid "Device that originated the current notification."
-msgstr "Périphérique à l’origine de la notification actuelle."
+msgstr "An gléas a chuir an fógra reatha ar bun."
 
 #: lib/solaar/ui/diversion_rules.py:1451
 msgid "Name of host computer."
-msgstr "Nom de l'ordinateur hôte."
+msgstr "Ainm an ríomhaire óstach."
 
 #: lib/solaar/ui/diversion_rules.py:1521
 msgid "Value"
-msgstr "Valeur"
+msgstr "Luach"
 
 #: lib/solaar/ui/diversion_rules.py:1530
 msgid "Item"
-msgstr "Item"
+msgstr "Mír"
 
 #: lib/solaar/ui/diversion_rules.py:1818
 msgid "Change setting on device"
-msgstr "Modifier le réglage sur le périphérique"
+msgstr "Athraigh an socrú ar an ngléas"
 
 #: lib/solaar/ui/diversion_rules.py:1834
 msgid "Setting on device"
-msgstr "Réglage sur le périphérique"
+msgstr "Socrú ar an ngléas"
 
 #: lib/solaar/ui/pair_window.py:44 lib/solaar/ui/pair_window.py:167
 #, python-format
 msgid "%(receiver_name)s: pair new device"
-msgstr "%(receiver_name)s : jumele le nouveau périphérique"
+msgstr "%(receiver_name)s: péireáil gléas nua"
 
 #: lib/solaar/ui/pair_window.py:46
 msgid "Bolt receivers are only compatible with Bolt devices."
-msgstr ""
-"Les récepteurs Bolt ne sont compatibles qu'avec des périphériques Bolt."
+msgstr "Níl glacadóirí Bolt comhoiriúnach ach le gléasanna Bolt."
 
 #: lib/solaar/ui/pair_window.py:48
 msgid "Press a pairing button or key until the pairing light flashes quickly."
 msgstr ""
-"Appuyez sur un bouton ou une touche d'appairage jusqu'à ce que le voyant "
-"clignote rapidement."
+"Brúigh cnaipe nó eochair péireála go dtí go splancann an solas péireála go "
+"tapa."
 
 #: lib/solaar/ui/pair_window.py:51
 msgid "Unifying receivers are only compatible with Unifying devices."
-msgstr ""
-"Les récepteurs Unifying ne sont compatibles qu'avec des périphériques "
-"Unifying."
+msgstr "Níl glacadóirí Unifying comhoiriúnach ach le gléasanna Unifying."
 
 #: lib/solaar/ui/pair_window.py:53
 msgid "Other receivers are only compatible with a few devices."
-msgstr ""
-"Les autres récepteurs sont uniquement compatibles avec quelques "
-"périphériques."
+msgstr "Níl glacadóirí eile comhoiriúnach ach le cúpla gléas."
 
 #: lib/solaar/ui/pair_window.py:55
 msgid "For most devices, turn on the device you want to pair."
 msgstr ""
-"Pour la plupart des périphériques, allumez le périphérique que vous "
-"souhaitez jumeler."
+"I gcás fhormhór na ngléasanna, cuir an gléas ar siúl is mian leat a "
+"phéireáil."
 
 #: lib/solaar/ui/pair_window.py:56
 msgid "If the device is already turned on, turn it off and on again."
-msgstr ""
-"Si le périphérique est déjà allumé, éteignez-le et rallumez-le à nouveau."
+msgstr "Má tá an gléas casta air cheana féin, múch é agus cuir air arís é."
 
 #: lib/solaar/ui/pair_window.py:58
 msgid "The device must not be paired with a nearby powered-on receiver."
 msgstr ""
-"Le périphérique doit être jumelé avec un récepteur de proximité allumé."
+"Ní mór an gléas a bheith péireáilte le glacadóir atá ar siúl in aice láimhe."
 
 #: lib/solaar/ui/pair_window.py:61
 msgid ""
@@ -2058,17 +2078,14 @@ msgid ""
 "or use the channel switch button to select a channel and then press, hold, "
 "and release the channel switch button."
 msgstr ""
-"Pour les périphériques disposant de plusieurs canaux, appuyez sur le bouton "
-"du canal que vous souhaitez appairer, maintenez-le enfoncé, puis relâchez-"
-"le.\n"
-"\n"
-"Ou utilisez le bouton de changement de canal pour sélectionner un canal, "
-"puis appuyez sur le bouton de changement de canal, maintenez-le enfoncé, "
-"puis relâchez-le."
+"I gcás gléasanna a bhfuil ilchainéil acu, brúigh, coinnigh síos agus scaoil "
+"an cnaipe don chainéal is mian leat a phéireáil\n"
+"nó bain úsáid as an gcnaipe athraithe cainéal chun cainéal a roghnú agus "
+"ansin brúigh, coinnigh síos agus scaoil an cnaipe athraithe cainéal."
 
 #: lib/solaar/ui/pair_window.py:68
 msgid "The channel indicator light should be blinking rapidly."
-msgstr "Le voyant indicateur du canal doit clignoter rapidement."
+msgstr "Ba chóir go mbeadh solas táscaire an chainéil ag splancadh go tapa."
 
 #: lib/solaar/ui/pair_window.py:72
 #, python-format
@@ -2083,11 +2100,15 @@ msgid_plural ""
 msgstr[0] ""
 "\n"
 "\n"
-"Ce récepteur a %d jumelage restant."
+"Tá %d péireáil fágtha ag an nglacadóir seo."
 msgstr[1] ""
 "\n"
 "\n"
-"Ce récepteur a %d jumelages restants."
+"Tá %d péirí fágtha ag an nglacadóir seo."
+msgstr[2] ""
+"\n"
+"\n"
+"Tá %d péirí fágtha ag an nglacadóir seo."
 
 #: lib/solaar/ui/pair_window.py:78
 msgid ""
@@ -2095,25 +2116,25 @@ msgid ""
 "Cancelling at this point will not use up a pairing."
 msgstr ""
 "\n"
-"L'annulation à ce stade n'utilisera pas de jumelage."
+"Ní úsáidfear péireáil má chealaítear ag an bpointe seo."
 
 #: lib/solaar/ui/pair_window.py:168
 #, python-format
 msgid "Enter passcode on %(name)s."
-msgstr "Entrer le mot de passe sur %(name)s."
+msgstr "Cuir isteach an pasfhocal ar %(name)s."
 
 #: lib/solaar/ui/pair_window.py:171
 #, python-format
 msgid "Type %(passcode)s and then press the enter key."
-msgstr "Taper %(passcode)s puis appuyez sur la touche Entrée."
+msgstr "Clóscríobh %(passcode)s agus ansin brúigh an eochair iontrála."
 
 #: lib/solaar/ui/pair_window.py:176
 msgid "left"
-msgstr "gauche"
+msgstr "ar chlé"
 
 #: lib/solaar/ui/pair_window.py:176
 msgid "right"
-msgstr "droit"
+msgstr "ar dheis"
 
 #: lib/solaar/ui/pair_window.py:178
 #, python-format
@@ -2121,184 +2142,186 @@ msgid ""
 "Press %(code)s\n"
 "and then press left and right buttons simultaneously."
 msgstr ""
-"Appuyez %(code)s\n"
-"puis appuyez simultanément sur les boutons gauche et droit."
+"Brúigh %(code)s\n"
+"agus ansin brúigh na cnaipí clé agus deas ag an am céanna."
 
 #: lib/solaar/ui/pair_window.py:221
 msgid "The wireless link is not encrypted"
-msgstr "La connexion sans fil n'est pas chiffrée"
+msgstr "Níl an nasc gan sreang criptithe"
 
 #: lib/solaar/ui/pair_window.py:226
 msgid "Found a new device:"
-msgstr "Nouveau périphérique disponible :"
+msgstr "Fuarthas gléas nua:"
 
 #: lib/solaar/ui/pair_window.py:247
 msgid "Pairing failed"
-msgstr "Le jumelage a échoué"
+msgstr "Theip ar an bpéireáil"
 
 #: lib/solaar/ui/pair_window.py:249
 msgid "Make sure your device is within range, and has a decent battery charge."
 msgstr ""
-"Assurez-vous que votre périphérique soit à portée, et que sa batterie soit "
-"suffisamment chargée."
+"Cinntigh go bhfuil do ghléas laistigh de raon, agus go bhfuil muirear "
+"ceallraí réasúnta air."
 
 #: lib/solaar/ui/pair_window.py:251
 msgid "A new device was detected, but it is not compatible with this receiver."
-msgstr ""
-"Un nouveau périphérique a été détecté, mais il n'est pas compatible avec ce "
-"récepteur."
+msgstr "Braitheadh gléas nua, ach níl sé comhoiriúnach leis an nglacadóir seo."
 
 #: lib/solaar/ui/pair_window.py:253
 msgid "More paired devices than receiver can support."
 msgstr ""
-"Il y a plus de périphériques jumelés que le récepteur ne peut en supporter."
+"Níos mó gléasanna péireáilte ná mar is féidir leis an nglacadóir tacú leo."
 
 #: lib/solaar/ui/pair_window.py:255
 msgid "No further details are available about the error."
-msgstr "Aucun autre détail n'est disponible à propos de l'erreur."
+msgstr "Níl aon sonraí breise ar fáil faoin earráid."
 
 #: lib/solaar/ui/perkey/control.py:178
 msgid "(not loaded)"
-msgstr "(non chargé)"
+msgstr "(gan luchtú)"
 
 #: lib/solaar/ui/perkey/control.py:182
 msgid "Open editor…"
-msgstr "Ouvrir l'éditeur…"
+msgstr "Oscail an t-eagarthóir…"
 
 #: lib/solaar/ui/perkey/control.py:183
 msgid "Paint key colors on a keyboard layout"
-msgstr ""
+msgstr "Péinteáil dathanna eochracha ar leagan amach méarchláir"
 
 #: lib/solaar/ui/perkey/control.py:229
 msgid "(no zones)"
-msgstr "(aucune zones)"
+msgstr "(gan criosanna)"
 
 #: lib/solaar/ui/perkey/control.py:233
 #, python-brace-format
 msgid "{painted} / {total} keys painted"
-msgstr ""
+msgstr "{painted} / {total} eochracha péinteáilte"
 
 #: lib/solaar/ui/perkey/editor.py:54
 msgid "Brush"
-msgstr ""
+msgstr "Scuab"
 
 #: lib/solaar/ui/perkey/editor.py:54
 msgid "Click or drag to paint individual keys"
-msgstr "Cliquez ou faites glisser pour colorer les touches individuellement"
+msgstr "Cliceáil nó tarraing chun eochracha aonair a phéinteáil"
 
 #: lib/solaar/ui/perkey/editor.py:55
 msgid "Drag to select a rectangle of keys, painted on release"
 msgstr ""
+"Tarraing chun dronuilleog eochracha a roghnú, péinteáilte nuair a scaoiltear "
+"iad"
 
 #: lib/solaar/ui/perkey/editor.py:55
 msgid "Rect"
-msgstr ""
+msgstr "Dronuilleog"
 
 #: lib/solaar/ui/perkey/editor.py:56
 msgid "Fill"
-msgstr "Remplir"
+msgstr "Líon"
 
 #: lib/solaar/ui/perkey/editor.py:56
 msgid "Flood-fill connected keys of the same color with the active color"
 msgstr ""
+"Líon isteach eochracha ceangailte den dath céanna leis an dath gníomhach"
 
 #: lib/solaar/ui/perkey/editor.py:59
 msgid "Drag to fade from previous color to active color"
-msgstr ""
+msgstr "Tarraing chun céimniú ón dath roimhe seo go dtí an dath gníomhach"
 
 #: lib/solaar/ui/perkey/palette.py:90
 msgid "Active color"
-msgstr "Couleur active"
+msgstr "Dath gníomhach"
 
 #: lib/solaar/ui/perkey/palette.py:95
 msgid "Paint as 'no change' — clears the cell to the zone base color"
 msgstr ""
+"Péinteáil mar 'gan athrú' — glanann sé an chill go dtí an dath bonn crios"
 
 #: lib/solaar/ui/perkey/palette.py:96
 msgid "Unset"
-msgstr "Non défini"
+msgstr "Díshuiteáil"
 
 #: lib/solaar/ui/rule_actions.py:54
 msgid ""
 "Simulate a chorded key click or depress or release.\n"
 "On Wayland requires write access to /dev/uinput."
 msgstr ""
-"Simule un clic combiné ou une pression ou un relâchement.\n"
-"Sous Wayland cela nécessite un accès en écriture au périphérique /dev/uinput."
+"Insamhladh cliceáil nó brú nó scaoileadh eochrach corda.\n"
+"Ar Wayland, teastaíonn rochtain scríbhneoireachta chuig /dev/uinput."
 
 #: lib/solaar/ui/rule_actions.py:60
 msgid "Add key"
-msgstr "Ajouter une touche"
+msgstr "Cuir eochair leis"
 
 #: lib/solaar/ui/rule_actions.py:63
 msgid "Click"
-msgstr "Clic"
+msgstr "Cliceáil"
 
 #: lib/solaar/ui/rule_actions.py:66
 msgid "Depress"
-msgstr "Appuyer"
+msgstr "Dúlagar"
 
 #: lib/solaar/ui/rule_actions.py:69
 msgid "Release"
-msgstr "Relâcher"
+msgstr "Scaoileadh"
 
 #: lib/solaar/ui/rule_actions.py:153
 msgid ""
 "Simulate a mouse scroll.\n"
 "On Wayland requires write access to /dev/uinput."
 msgstr ""
-"Simule un défilement de souris.\n"
-"Sous Wayland cela nécessite un accès en écriture au périphérique /dev/uinput."
+"Insamhladh scrolla luiche.\n"
+"Ar Wayland, teastaíonn rochtain scríbhneoireachta chuig /dev/uinput."
 
 #: lib/solaar/ui/rule_actions.py:211
 msgid ""
 "Simulate a mouse click.\n"
 "On Wayland requires write access to /dev/uinput."
 msgstr ""
-"Simule un clic de souris.\n"
-"Sous Wayland cela nécessite un accès en écriture au périphérique /dev/uinput."
+"Insamhlaigh cliceáil luiche.\n"
+"Éilíonn Wayland rochtain scríbhneoireachta chuig /dev/uinput."
 
 #: lib/solaar/ui/rule_actions.py:216
 msgid "Button"
-msgstr "Bouton"
+msgstr "Cnaipe"
 
 #: lib/solaar/ui/rule_actions.py:218
 msgid "Action (and Count, if click)"
-msgstr "Action (et nombre, en cas de clic)"
+msgstr "Gníomh (agus Líon, má chliceálann tú)"
 
 #: lib/solaar/ui/rule_actions.py:269
 msgid "Execute a command with arguments."
-msgstr "Exécuter une commande avec paramètres."
+msgstr "Forghníomhaigh ordú le hargóintí."
 
 #: lib/solaar/ui/rule_actions.py:273
 msgid "Add argument"
-msgstr "Ajouter un paramètre"
+msgstr "Cuir argóint leis"
 
 #: lib/solaar/ui/rule_conditions.py:52
 msgid "X11 active process. For use in X11 only."
-msgstr "Processus actif X11. Pour une utilisation dans X11 uniquement."
+msgstr "Próiseas gníomhach X11. Le húsáid in X11 amháin."
 
 #: lib/solaar/ui/rule_conditions.py:82
 msgid "X11 mouse process. For use in X11 only."
-msgstr "Processus de la souris X11. Pour une utilisation dans X11 uniquement."
+msgstr "Próiseas luiche X11. Le húsáid in X11 amháin."
 
 #: lib/solaar/ui/rule_conditions.py:99
 msgid "MouseProcess"
-msgstr "Processus de la souris"
+msgstr "Próiseas Luiche"
 
 #: lib/solaar/ui/rule_conditions.py:123
 msgid "Feature name of notification triggering rule processing."
-msgstr ""
-"Nom de la fonction de notification déclenchant le traitement de la règle."
+msgstr "Ainm gné den phróiseáil rialach a spreagann fógra."
 
 #: lib/solaar/ui/rule_conditions.py:169
 msgid "Report number of notification triggering rule processing."
-msgstr ""
-"Indique le nombre de notifications déclenchant le traitement de la règle."
+msgstr "Tuairiscigh líon na bhfógraí a spreagann próiseáil rialacha."
 
 #: lib/solaar/ui/rule_conditions.py:201
 msgid "Active keyboard modifiers. Not always available in Wayland."
-msgstr "Modificateurs de clavier actifs. Pas toujours disponible sous Wayland."
+msgstr ""
+"Mionathraitheoirí méarchláir ghníomhacha. Ní bhíonn siad ar fáil i gcónaí i "
+"Wayland."
 
 #: lib/solaar/ui/rule_conditions.py:241
 msgid ""
@@ -2306,17 +2329,17 @@ msgid ""
 "Use the Key/Button Diversion and Divert G Keys settings to divert keys and "
 "buttons."
 msgstr ""
-"Interception de touche ou bouton appuyé ou relâché.\n"
-"Utiliser l'interception de touche/bouton et les paramètres Interception des "
-"touches G pour intercepter les touches et les boutons."
+"Eochair nó cnaipe atreoraithe brúite nó scaoilte.\n"
+"Úsáid na socruithe Atreorú Eochrach/Cnaipe agus Atreorú Eochracha G chun "
+"eochracha agus cnaipí a atreorú."
 
 #: lib/solaar/ui/rule_conditions.py:250
 msgid "Key down"
-msgstr "Enfoncement de touche"
+msgstr "Eochair síos"
 
 #: lib/solaar/ui/rule_conditions.py:253
 msgid "Key up"
-msgstr "Relâchement de touche"
+msgstr "Eochair suas"
 
 #: lib/solaar/ui/rule_conditions.py:293
 msgid ""
@@ -2324,250 +2347,238 @@ msgid ""
 "Use the Key/Button Diversion and Divert G Keys settings to divert keys and "
 "buttons."
 msgstr ""
-"La touche/le bouton intercepté est actuellement enfoncé.\n"
-"Utiliser l'interception de touche/bouton et les paramètres Interception des "
-"touches G pour intercepter les touches et les boutons."
+"Tá an eochair nó an cnaipe atreoraithe síos faoi láthair.\n"
+"Bain úsáid as na socruithe Atreorú Eochrach/Cnaipe agus Atreorú Eochracha G "
+"chun eochracha agus cnaipí a atreorú."
 
 #: lib/solaar/ui/rule_conditions.py:331
 msgid "Test condition on notification triggering rule processing."
-msgstr ""
-"Condition de test déclenchant le traitement de la règle en cas de "
-"notification."
+msgstr "Coinníoll tástála ar phróiseáil rialach a spreagann fógra."
 
 #: lib/solaar/ui/rule_conditions.py:335
 msgid "Parameter"
-msgstr "Paramètre"
+msgstr "Paraiméadar"
 
 #: lib/solaar/ui/rule_conditions.py:408
 msgid "begin (inclusive)"
-msgstr "début (inclusif)"
+msgstr "tús (san áireamh)"
 
 #: lib/solaar/ui/rule_conditions.py:409
 msgid "end (exclusive)"
-msgstr "fin (exclusif)"
+msgstr "deireadh (eisiach)"
 
 #: lib/solaar/ui/rule_conditions.py:417
 msgid "range"
-msgstr "plage"
+msgstr "raon"
 
 #: lib/solaar/ui/rule_conditions.py:420
 msgid "minimum"
-msgstr "minimum"
+msgstr "íosmhéid"
 
 #: lib/solaar/ui/rule_conditions.py:421
 msgid "maximum"
-msgstr "maximum"
+msgstr "uasmhéid"
 
 #: lib/solaar/ui/rule_conditions.py:423
 #, python-format
 msgid "bytes %(0)d to %(1)d, ranging from %(2)d to %(3)d"
-msgstr "octets %(0)d à %(1)d, allant de %(2)d à %(3)d"
+msgstr "beart %(0)d go %(1)d, idir %(2)d agus %(3)d"
 
 #: lib/solaar/ui/rule_conditions.py:426 lib/solaar/ui/rule_conditions.py:427
 msgid "mask"
-msgstr "masque"
+msgstr "masc"
 
 #: lib/solaar/ui/rule_conditions.py:428
 #, python-format
 msgid "bytes %(0)d to %(1)d, mask %(2)d"
-msgstr "octets %(0)d à %(1)d, masque %(2)d"
+msgstr "beart %(0)d go %(1)d, masc %(2)d"
 
 #: lib/solaar/ui/rule_conditions.py:437
 msgid ""
 "Bit or range test on bytes in notification message triggering rule "
 "processing."
 msgstr ""
-"Bit ou plage d'octets dans un message de notification déclenchant le "
-"traitement d'une règle."
+"Tástáil giotán nó raoin ar bhearta i dteachtaireacht fógra a spreagann "
+"próiseáil rialacha."
 
 #: lib/solaar/ui/rule_conditions.py:447
 msgid "type"
-msgstr "type"
+msgstr "cineál"
 
 #: lib/solaar/ui/rule_conditions.py:535
 msgid ""
 "Mouse gesture with optional initiating button followed by zero or more mouse "
 "movements."
 msgstr ""
-"Geste de la souris avec bouton d'initialisation optionnel suivi ou non par "
-"des déplacements de souris."
+"Gotha luiche le cnaipe tosaithe roghnach agus gan aon ghluaiseacht luiche nó "
+"níos mó ina dhiaidh."
 
 #: lib/solaar/ui/rule_conditions.py:541
 msgid "Add movement"
-msgstr "Ajouter un mouvement"
+msgstr "Cuir gluaiseacht leis"
 
 #: lib/solaar/ui/tray.py:55
 msgid "No supported device found"
-msgstr "Aucun périphérique pris en charge trouvé"
+msgstr "Níor aimsíodh aon ghléas tacaithe"
 
 #: lib/solaar/ui/tray.py:60 lib/solaar/ui/window.py:328
 #, python-format
 msgid "About %s"
-msgstr "À propos de %s"
+msgstr "Maidir le %s"
 
 #: lib/solaar/ui/tray.py:61 lib/solaar/ui/window.py:326
 #, python-format
 msgid "Quit %s"
-msgstr "Quitter %s"
+msgstr "Scoir %s"
 
 #: lib/solaar/ui/tray.py:273 lib/solaar/ui/tray.py:281
 msgid "no receiver"
-msgstr "aucun récepteur"
+msgstr "gan aon ghlacadóir"
 
 #: lib/solaar/ui/tray.py:294 lib/solaar/ui/tray.py:299
-#: lib/solaar/ui/window.py:734
 msgid "offline"
-msgstr "non connecté"
+msgstr "as líne"
 
 #: lib/solaar/ui/tray.py:297
 msgid "no status"
-msgstr "aucun statut"
+msgstr "gan stádas"
 
 #: lib/solaar/ui/window.py:110
 msgid "Scanning"
-msgstr "Balayage"
+msgstr "Scanadh"
 
 #: lib/solaar/ui/window.py:141
 msgid "Battery"
-msgstr "Batterie"
+msgstr "Ceallraí"
 
 #: lib/solaar/ui/window.py:144
 msgid "Wireless Link"
-msgstr "Connexion sans fil"
+msgstr "Nasc Gan Sreang"
 
 #: lib/solaar/ui/window.py:148
 msgid "Lighting"
-msgstr "Éclairage"
+msgstr "Soilsiú"
 
 #: lib/solaar/ui/window.py:182
 msgid "Show Technical Details"
-msgstr "Afficher les détails techniques"
+msgstr "Taispeáin Sonraí Teicniúla"
 
 #: lib/solaar/ui/window.py:198
 msgid "Pair new device"
-msgstr "Jumeler un nouveau périphérique"
+msgstr "Péireáil gléas nua"
 
 #: lib/solaar/ui/window.py:216
 msgid "Select a device"
-msgstr "Sélectionner un périphérique"
+msgstr "Roghnaigh gléas"
 
 #: lib/solaar/ui/window.py:331
 msgid "Rule Editor"
-msgstr "Éditeur de règles"
+msgstr "Eagarthóir Rialacha"
 
 #: lib/solaar/ui/window.py:522
 msgid "Path"
-msgstr "Chemin"
+msgstr "Cosán"
 
 #: lib/solaar/ui/window.py:524
 msgid "USB ID"
-msgstr "ID USB"
+msgstr "Aitheantas USB"
 
 #: lib/solaar/ui/window.py:527 lib/solaar/ui/window.py:529
 #: lib/solaar/ui/window.py:550 lib/solaar/ui/window.py:552
 msgid "Serial"
-msgstr "Numéro de série"
+msgstr "Sraitheach"
 
 #: lib/solaar/ui/window.py:533
 msgid "Index"
-msgstr "Index"
+msgstr "Innéacs"
 
 #: lib/solaar/ui/window.py:535
 msgid "Wireless PID"
-msgstr "PID sans fil"
+msgstr "PID Gan Sreang"
 
 #: lib/solaar/ui/window.py:537
 msgid "Product ID"
-msgstr "Identifiant produit"
+msgstr "Aitheantas Táirge"
 
 #: lib/solaar/ui/window.py:541 lib/solaar/ui/window.py:543
 #: lib/solaar/ui/window.py:545
 msgid "Protocol"
-msgstr "Protocole"
+msgstr "Prótacal"
 
 #: lib/solaar/ui/window.py:545
 msgid "Unknown"
-msgstr "Inconnu"
+msgstr "Anaithnid"
 
 #: lib/solaar/ui/window.py:547
 msgid "Polling rate"
-msgstr "Taux de scrutation"
+msgstr "Ráta faireachán"
 
 #: lib/solaar/ui/window.py:554
 msgid "Unit ID"
-msgstr "ID d'unité"
-
-#: lib/solaar/ui/window.py:565
-msgid "none"
-msgstr "aucun"
+msgstr "Aitheantas Aonaid"
 
 #: lib/solaar/ui/window.py:566
 msgid "Notifications"
-msgstr "Notifications"
+msgstr "Fógraí"
 
 #: lib/solaar/ui/window.py:610
 msgid "No device paired."
-msgstr "Aucun périphérique jumelé."
+msgstr "Níl aon ghléas péireáilte."
 
 #: lib/solaar/ui/window.py:619
 #, python-format
 msgid "Up to %(max_count)s device can be paired to this receiver."
 msgid_plural "Up to %(max_count)s devices can be paired to this receiver."
-msgstr[0] "Jusqu'à %(max_count)s périphérique peut être jumelé à ce récepteur."
+msgstr[0] ""
+"Is féidir suas le %(max_count)s gléas a phéireáil leis an nglacadóir seo."
 msgstr[1] ""
-"Jusqu'à %(max_count)s périphériques peuvent être jumelés à ce récepteur."
-
-#: lib/solaar/ui/window.py:626
-msgid "Only one device can be paired to this receiver."
-msgstr "Un seul périphérique peut être jumelé à ce récepteur."
+"Is féidir suas le %(max_count)s gléasanna a phéireáil leis an nglacadóir seo."
+msgstr[2] ""
+"Is féidir suas le %(max_count)s gléasanna a phéireáil leis an nglacadóir seo."
 
 #: lib/solaar/ui/window.py:630
 #, python-format
 msgid "This receiver has %d pairing remaining."
 msgid_plural "This receiver has %d pairings remaining."
-msgstr[0] "Ce récepteur a %d jumelage restant."
-msgstr[1] "Ce récepteur a %d jumelages restants."
+msgstr[0] "Tá %d péireáil fágtha ag an nglacadóir seo."
+msgstr[1] "Tá %d péireáil fágtha ag an nglacadóir seo."
+msgstr[2] "Tá %d péireáil fágtha ag an nglacadóir seo."
 
 #: lib/solaar/ui/window.py:687
 msgid "Battery Voltage"
-msgstr "Tension de la batterie"
+msgstr "Voltas Ceallraí"
 
 #: lib/solaar/ui/window.py:689
 msgid "Voltage reported by battery"
-msgstr "Tension indiquée par la batterie"
+msgstr "Voltas tuairiscithe ag ceallraí"
 
 #: lib/solaar/ui/window.py:691
 msgid "Battery Level"
-msgstr "Niveau de la batterie"
+msgstr "Leibhéal Ceallraí"
 
 #: lib/solaar/ui/window.py:693
 msgid "Approximate level reported by battery"
-msgstr "Niveau approximatif indiqué par la batterie"
+msgstr "Leibhéal garbh a tuairiscíodh ag an gceallraí"
 
 #: lib/solaar/ui/window.py:700 lib/solaar/ui/window.py:702
 msgid "next reported "
-msgstr "prochain rapport "
+msgstr "an chéad tuairisc eile "
 
 #: lib/solaar/ui/window.py:703
 msgid " and next level to be reported."
-msgstr " et prochain niveau à rapporter."
-
-#: lib/solaar/ui/window.py:708
-msgid "last known"
-msgstr "dernière valeur connue"
+msgstr " agus an chéad leibhéal eile le tuairisciú."
 
 #: lib/solaar/ui/window.py:719
 msgid "encrypted"
-msgstr "chiffrée"
+msgstr "criptithe"
 
 #: lib/solaar/ui/window.py:721
 msgid "The wireless link between this device and its receiver is encrypted."
-msgstr ""
-"La connexion sans fil entre ce périphérique et son récepteur est chiffrée."
+msgstr "Tá an nasc gan sreang idir an gléas seo agus a ghlacadóir criptithe."
 
 #: lib/solaar/ui/window.py:723
 msgid "not encrypted"
-msgstr "non chiffrée"
+msgstr "gan criptiú"
 
 #: lib/solaar/ui/window.py:727
 msgid ""
@@ -2575,10 +2586,9 @@ msgid ""
 "This is a security issue for pointing devices, and a major security issue "
 "for text-input devices."
 msgstr ""
-"La connexion sans fil entre ce périphérique et son récepteur n'est pas "
-"chiffrée.\n"
-"Ceci est un problème de sécurité pour les dispositifs de pointage, et un "
-"problème majeur pour les périphériques de saisie de texte."
+"Níl an nasc gan sreang idir an gléas seo agus a ghlacadóir criptithe.\n"
+"Is fadhb slándála í seo do ghléasanna pointeála, agus fadhb mhór slándála do "
+"ghléasanna ionchuir téacs."
 
 #: lib/solaar/ui/window.py:743
 #, python-format
